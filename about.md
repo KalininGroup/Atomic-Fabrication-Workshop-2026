@@ -9,7 +9,7 @@ menu_icon: globe2
 <table class="team-list">
     <tr>
         <td>
-            <img alt="Person_1" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/Person_1.png">
+            <img alt="Person_1" src="https://raw.githubusercontent.com/KalininGroup/mic-hackathon/main/assets/person_1.png">
         </td>
         <td>
             <strong>Person_1</strong>
