@@ -1,5 +1,5 @@
 ---
-title: Hackathon agenda 🗓️
+title: Event agenda 🗓️
 menu_title: Agenda
 menu_icon: clock
 ---

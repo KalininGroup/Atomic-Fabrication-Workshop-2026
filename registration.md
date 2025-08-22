@@ -1,5 +1,5 @@
 ---
-title: Hackathon registration
+title: Event registration
 menu_title: Registration
 menu_icon: clipboard-check
 event_status:

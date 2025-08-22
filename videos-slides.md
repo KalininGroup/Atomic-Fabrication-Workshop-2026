@@ -1,5 +1,5 @@
 ---
-title: Hackathon videos and slides
+title: Event videos and slides
 menu_title: Videos & slides
 menu_icon: film
 event_status:
