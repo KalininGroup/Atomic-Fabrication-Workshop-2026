@@ -1,5 +1,5 @@
 ---
-title: About the Hackathon
+title: About the Event
 menu_title: About
 menu_icon: globe2
 ---
