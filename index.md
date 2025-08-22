@@ -6,11 +6,12 @@ menu_icon: house-door
 ---
 ## This a dummy website template
 
-
+Event description
 
 
 ## Logistics
 
+Link to zoom meetings
 
 
 ## Prizes
