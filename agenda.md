@@ -6,8 +6,6 @@ menu_icon: clock
 
 # Tentative Agenda (names are tentative)
 
-Of course. Here is the agenda separated into Day 1 and Day 2, with the time in the first column, the speaker in the second, and the topic/session in the third.
-
 ***
 
 ### **Day 1, Month, 2026**
