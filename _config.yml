@@ -14,7 +14,7 @@ description: |
 url: "https://kaliningroup.github.io/Atomic-Fabrication-Workshop-2026/"
 github_repo: kaliningroup
 
-theme: Merlot
+theme: minimal
 
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
