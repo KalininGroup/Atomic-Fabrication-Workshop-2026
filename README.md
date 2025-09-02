@@ -46,5 +46,4 @@
 
 
 ## Acknowledgment
-- Built up on [LLM in Chemistry and Materials hackathon](https://materials-data-facility.github.io/llm-hackathon/registration/) and [BO hackathon](https://ac-bo-hackathon.github.io/)
-- Website theme by [James Thomas, Jean Golding Institute](https://github.com/Jean-Golding-Institute/hackathon-template)
+- To be Mentioned
