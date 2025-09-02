@@ -1,22 +1,16 @@
 ---
 layout: page
-title: Event name
+title: Workshop
 menu_title: Home
 menu_icon: house-door
 ---
-## This a dummy website template
+## Atomic Fabrication Workshop 2026
 
 Event description
 
 
-## Logistics
+## Location
 
-Link to zoom meetings
-
-
-## Prizes
-
-Will be announced soon! 
-
+Crystal City, Arlington, Virginia, USA
 
 ##  Sponsors
