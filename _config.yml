@@ -12,7 +12,7 @@ description: |
   Conference workshop on Atomic Fabrication
 
 url: "https://kaliningroup.github.io/Atomic-Fabrication-Workshop-2026/"
-github_repo: kaliningroup
+# github_repo: kaliningroup
 
 theme: minima
 
@@ -22,7 +22,7 @@ header_pages:
   - registration.md
   - agenda.md
   - submission.md
-  - videos-slides.md
+  - venue.md
   - about.md
 
 # Event status
