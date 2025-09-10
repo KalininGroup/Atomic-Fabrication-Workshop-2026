@@ -19,11 +19,12 @@ theme: minima
 # The actual visibility of the nav bar links is influenced by the event_status
 # and registration_status flags below
 header_pages:
+  - main.md
+  - about.md
   - registration.md
   - agenda.md
-  - submission.md
   - venue.md
-  - about.md
+
 
 # Event status
 #   soon = event is yet to happen
