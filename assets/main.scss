@@ -322,5 +322,20 @@ ul.grid {
     }
 }
 
+/* Stack image + video in the right column */
+.aside figure { margin: 0 0 12px 0; }
+.aside img { display: block; width: 100%; height: auto; }
+
+/* Responsive 16:9 video */
+.video .video-container { position: relative; padding-bottom: 56.25%; height: 0; }
+.video .video-container iframe { position: absolute; inset: 0; width: 100%; height: 100%; }
+
+/* Optional: justify body paragraphs */
+.page-content p, .post-content p {
+  text-align: justify !important;
+  text-justify: inter-word;
+  hyphens: auto; -webkit-hyphens: auto;
+}
+
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
