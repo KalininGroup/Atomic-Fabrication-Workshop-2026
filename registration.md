@@ -6,5 +6,3 @@ event_status:
  - soon
 ---
 ## Registration details - coming soon!
-
-Registration form link
