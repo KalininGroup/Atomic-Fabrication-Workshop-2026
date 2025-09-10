@@ -9,7 +9,7 @@ menu_icon: info-circle
 <div class="aside">
   <figure style="margin:0 0 12px 0;">
     <img src="{{ '/assets/feynman.png' | relative_url }}" 
-         alt="Mighty T still" style="width:100%;height:auto;">
+         style="width:100%;height:auto;">
     <figcaption><small>Mighty&nbsp;T demonstration still</small></figcaption>
   </figure>
 
