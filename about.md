@@ -7,7 +7,7 @@ layout: page
 <!-- Right column: image on top, video below -->
 <div class="aside">
   <figure style="margin:0 0 12px 0;">
-    <img src="{{ '/assets/img/feynman.png' | relative_url }}" 
+    <img src="{{ '/assets/feynman.png' | relative_url }}" 
          alt="Mighty T still" style="width:100%;height:auto;">
     <figcaption><small>Mighty&nbsp;T demonstration still</small></figcaption>
   </figure>
