@@ -15,8 +15,6 @@ The workshop will serve as a forum to engage traditionally separate communities 
 </div>
 
 
-
 <div class="justify">
 The workshop topics and speakers will be selected to be of interest to several NSF divisions and offices including CMMI and ECCS (in ENG), DMR (in MPS), and the Office of Emerging Frontiers and Multidisciplinary Activities.
-
 </div>
