@@ -7,7 +7,7 @@ layout: page
 <!-- Right column: image on top, video below -->
 <div class="aside">
   <figure style="margin:0 0 12px 0;">
-    <img src="https://drive.google.com/uc?export=view&id=10u-GlVNN9xPZPT8W98dUgkVrw4xAs3US"
+    <img src="{{ '/assets/img/feynman.jpg' | relative_url }}" 
          alt="Mighty T still" style="width:100%;height:auto;">
     <figcaption><small>Mighty&nbsp;T demonstration still</small></figcaption>
   </figure>
@@ -22,7 +22,6 @@ layout: page
     </div>
   </div>
 </div>
-<div style="clear: both;"></div>
 
 <!-- Left column: your text -->
 <p>The workshop is designed to explore research opportunities in quantum information based on emerging approaches including silicon and semiconductor-based qubits, macromolecules, conjugated molecular systems, and other experimental realizations. Workshop topics will include both top-down fabrication techniques and bottom-up methods that can offer atom-by-atom assembly for selected materials, ranging from sequential low-throughput approaches to higher-throughput methods enabled by classical semiconductor workflows and synthesis. The proposed workshop will help sketch a roadmap for atomic-scale fabrication towards novel quantum technologies. 
