@@ -2,7 +2,7 @@
 title: About the Event
 menu_title: About
 layout: page
-icon: info-circle 
+menu_icon: info-circle 
 ---
 
 <!-- Right column: image on top, video below -->
