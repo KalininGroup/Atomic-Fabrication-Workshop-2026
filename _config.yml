@@ -11,7 +11,7 @@ mailbox_address:
 description: |
   Conference workshop on Atomic Fabrication
 
-url: "https://kaliningroup.github.io/Atomic-Fabrication-Workshop-2026/"
+# url: "https://kaliningroup.github.io/Atomic-Fabrication-Workshop-2026/"
 # github_repo: kaliningroup
 
 theme: minima
