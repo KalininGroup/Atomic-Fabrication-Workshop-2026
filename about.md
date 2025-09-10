@@ -17,7 +17,6 @@ menu_icon: info-circle
     <div class="video-container">
       <iframe
         src="https://drive.google.com/file/d/1KC6rPjRE2PFXgLrBCD0cVTsTHXBnoUez/preview"
-        title="Mighty T video"
         allow="autoplay"
         allowfullscreen></iframe>
     </div>
