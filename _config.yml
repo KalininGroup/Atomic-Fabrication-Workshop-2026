@@ -67,3 +67,9 @@ defaults:
 # Simplify tables of contents
 kramdown:
   toc_levels: "2,3"
+
+
+# Hide the GitHub footer links
+gh_edit_link: false       # removes "Improve this page" / "Edit this page"
+gh_source_link: false     # if your theme version supports it, hides "View page source"
+last_edit_timestamp: false
