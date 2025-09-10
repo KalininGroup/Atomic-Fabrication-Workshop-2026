@@ -1,6 +1,6 @@
 ---
-title: main
-menu_title: main
+title: Main
+menu_title: Main
 menu_icon: cloud-arrow-up
 ---
 
