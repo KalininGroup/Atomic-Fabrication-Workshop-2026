@@ -10,7 +10,6 @@ menu_icon: info-circle
   <figure style="margin:0 0 12px 0;">
     <img src="{{ '/assets/feynman.png' | relative_url }}" 
          style="width:100%;height:auto;">
-    <figcaption><small>Mighty&nbsp;T demonstration still</small></figcaption>
   </figure>
 
   <div class="video">
