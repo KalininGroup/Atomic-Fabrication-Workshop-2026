@@ -1,6 +1,6 @@
 ---
-title: Venue
-menu_title: Videos & slides
+title: Videos and Slides
+menu_title: Venue
 menu_icon: film
 event_status:
  - soon
