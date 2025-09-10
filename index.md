@@ -4,13 +4,17 @@ title: Workshop
 menu_title: Home
 menu_icon: house-door
 ---
-## Atomic Fabrication Workshop 2026
-
+## DEMOCritus - Deterministic Molecular & Atomic Construction for Quantum Devices
 Event description
-
 
 ## Location
 
-Crystal City, Arlington, Virginia, USA
+TBD, Crystal City, Arlington, Virginia, USA
+
+## Location
+
+February 19-20, 2026 
 
 ##  Sponsors
+
+National Science Foundation
