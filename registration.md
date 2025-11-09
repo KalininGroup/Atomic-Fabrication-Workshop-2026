@@ -8,7 +8,6 @@ event_status:
 
 Please complete the form below to register for the **DEMOCritus Workshop**.
 
-
 <style>
 .reg-card {
   max-width: 760px;
@@ -74,10 +73,6 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 </style>
 
 <div class="reg-card">
-  <h2>Register for the DEMOCritus Workshop</h2>
-
-  <p>Please complete the form below to register. You will receive a confirmation email.</p>
-
   {% raw %}
   <iframe name="gform_target" id="gform_target" style="display:none;"></iframe>
 
@@ -115,7 +110,7 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
       <textarea name="entry.859023005" placeholder="e.g., atomic fabrication, microscopy, quantum devices"></textarea>
     </label>
 
-    <label>Attendance (optional)
+    <label>Attendance
       <select name="entry.401581971">
         <option value="">-- Select --</option>
         <option value="Both days">Both days</option>
