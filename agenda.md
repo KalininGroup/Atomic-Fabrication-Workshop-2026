@@ -102,23 +102,68 @@ menu_icon: clock
 
   <tr><td class="time">7:30 AM – 8:30 AM</td><td>Coffee</td></tr>
 
+  <!-- SESSION 5 -->
   <tr>
-    <td class="time">8:30 AM – 9:00 AM</td>
-    <td><strong>Uli Wiesner (Cornell)</strong> — <em>The Promise of Soft Matter Enabled Quantum Devices</em></td>
+    <td class="time">8:30 AM – 9:30 AM</td>
+    <td>
+      <strong>Session 5: Silicon for Quantum</strong><br>
+      <ul>
+        <li><strong>Shashank Misra (Sandia National Laboratories)</strong> — <em>Why is Silicon Quantum Computing Taking So Long?</em></li>
+        <li><em>TBD</em></li>
+      </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: Jason Petta (UCLA)</em>
+      </div>
+    </td>
   </tr>
-
-  <tr><td class="time">9:00 AM – 9:30 AM</td><td><em>TBD</em></td></tr>
 
   <tr><td class="time">9:30 AM – 10:00 AM</td><td>Coffee Break</td></tr>
 
-  <tr><td class="time">10:00 AM – 12:00 PM</td><td><strong>Session 5: Hybrid Platforms</strong> — <em>Speakers TBD</em></td></tr>
+  <!-- SESSION 6 -->
+  <tr>
+    <td class="time">10:00 AM – 12:00 PM</td>
+    <td>
+      <strong>Session 6: Molecular Platforms & Defects</strong><br>
+      <ul>
+        <li><strong>Xiuling Li (UT Austin)</strong> — <em>Quantum Sensing with Spin Defects in III-Nitrides</em></li>
+        <li><strong>Danna Freedman (MIT)</strong> — <em>Molecular Color Centers</em></li>
+        <li><em>TBD</em></li>
+        <li><em>TBD</em></li>
+      </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: Robert Butera</em>
+      </div>
+    </td>
+  </tr>
 
   <tr><td class="time">12:00 PM – 1:00 PM</td><td>Lunch</td></tr>
 
-  <tr><td class="time">1:00 PM – 2:00 PM</td><td><strong>Industry Session</strong> — <em>TBD</em></td></tr>
+  <!-- SESSION 7 -->
+  <tr>
+    <td class="time">1:00 PM – 2:00 PM</td>
+    <td>
+      <strong>Session 7: Industry Perspectives</strong><br>
+      <ul>
+        <li><strong>Nathan Baker (Microsoft)</strong></li>
+        <li><strong>Antia Linas-Linares (Amazon)</strong></li>
+        <li><em>TBD</em></li>
+        <li><em>TBD</em></li>
+      </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: Greg Fuchs</em>
+      </div>
+    </td>
+  </tr>
 
-  <tr><td class="time">2:00 PM – 3:00 PM</td><td>Breakout Reports</td></tr>
+  <!-- BREAKOUT REPORTS -->
+  <tr>
+    <td class="time">2:00 PM – 3:00 PM</td>
+    <td>Breakout Session Reports — 10+10 minute summaries with discussion</td>
+  </tr>
 
-  <tr><td class="time">3:00 PM – close</td><td>Wrap-up and adjournment</td></tr>
+  <tr><td class="time">3:00 PM – 3:15 PM</td><td>Final report preparation</td></tr>
+
+  <tr><td class="time">3:15 PM – close</td><td>Wrap-up and adjournment</td></tr>
 
 </table>
+
