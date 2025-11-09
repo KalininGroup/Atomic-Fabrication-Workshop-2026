@@ -4,7 +4,7 @@ menu_title: Agenda
 menu_icon: clock
 ---
 
-# Tentative Agenda (Tentative — additional speakers TBD)
+# Tentative Agenda (confirmed speakers shown; remaining TBD)
 
 ***
 
@@ -17,21 +17,21 @@ menu_icon: clock
 | 8:55 AM – 9:10 AM | Sergei V. Kalinin, Chair | Overview |
 
 | 9:10 AM – 10:10 AM | **David Awschalom (University of Chicago)** | **Opening Keynote** |
-<!-- Simone Severini, Google (TBD) -->
+<!-- Simone Severini (Google) – TBD -->
 
 | 10:10 AM – 10:25 AM |  | Coffee Break |
 
 | 10:25 AM – 11:55 AM | **Susanne Stemmer (UCSB)** | *Topological materials for quantum information systems* |
 |  | **Marko Lončar (Harvard)** | *Quantum Optical Interconnects* |
-|  | **Shashank Misra (Sandia National Labs)** | *Why is silicon quantum computing taking so long?* |
-<!-- Robert Butera, UMD; Frances Ross, MIT; Dirk Englund, MIT — TBD -->
+|  | **Shashank Misra (Sandia National Laboratories)** | *Why is silicon quantum computing taking so long?* |
+<!-- Robert Butera (UMD); Frances Ross (MIT); Dirk Englund (MIT) — TBD -->
 
 | 12:00 PM – 1:00 PM |  | Luncheon (provided) |
 
 | 1:00 PM – 2:30 PM | **Greg Tikhomirov (UC Berkeley)** | *Democratizing Nanofabrication of Quantum Systems via Molecular Self-assembly* |
 |  | **Danna Freedman (MIT)** | *Molecular Color Centers* |
 |  | **Xiuling Li (UT Austin)** | *Quantum Sensing with Spin Defects in III-Nitrides* |
-<!-- Charles Marcus, U Wash; T. Rajh, ASU; Greg Fuchs, Cornell — TBD -->
+<!-- Charles Marcus; T. Rajh; Greg Fuchs — TBD -->
 
 | 2:30 PM – 3:00 PM |  | Coffee Break |
 
@@ -40,7 +40,7 @@ menu_icon: clock
 
 | 6:00 PM – 7:00 PM |  | Dinner (TBD) |
 
-| 7:00 PM – 8:00 PM | **John Randall (Zyvex)** | *Atomic Scale Fabrication – a Top-Down Digital Approach* |
+| 7:00 PM – 8:00 PM | **John Randall (Zyvex Labs)** | *Atomic Scale Fabrication – a Top-Down Digital Approach* |
 
 | 8:00 PM – close |  | Post-dinner Brainstorming |
 
@@ -53,18 +53,18 @@ menu_icon: clock
 | 7:30 AM – 8:30 AM |  | Coffee |
 
 | 8:30 AM – 9:30 AM | **Uli Wiesner (Cornell)** | *The Promise of Soft Matter Enabled Quantum Devices* |
-<!-- Michal Lipson; Mark Ericcson — TBD -->
+<!-- Michal Lipson (Columbia); Mark Ericcson (U Wisc) — TBD -->
 
 | 9:30 AM – 10:00 AM |  | Coffee Break |
 
 | 10:00 AM – 12:00 PM | TBD | **Session 5: Molecules, STM, Industry** |
-<!-- Jean-Luc Bredas; Latha Venkataraman; Kevin Roccapriore; etc. — TBD -->
+<!-- Jean-Luc Brédas (Arizona); Latha Venkataraman (Columbia); Kevin Roccapriore (AtomQ) — TBD -->
 
 | 12:00 PM – 1:00 PM |  | Lunch |
 
 | 1:00 PM – 2:00 PM | TBD | **Session 6: Industry Talks 2** |
-<!-- Nathan Baker, Microsoft; Antia Linas-Linares, Amazon — TBD -->
+<!-- Nathan Baker (Microsoft); Antia Linas-Linares (Amazon) — TBD -->
 
-| 2:00 PM – 3:00 PM |  | Breakout Session Reports (10+10 min each, w/discussion) |
+| 2:00 PM – 3:00 PM |  | Breakout Session Reports |
 | 3:00 PM – 3:15 PM |  | Final Report Preparation |
 | 3:15 PM – close |  | Wrap up and adjournment |
