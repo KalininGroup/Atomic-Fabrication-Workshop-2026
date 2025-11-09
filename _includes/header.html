@@ -1,8 +1,8 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <!-- <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%} -->
     <!-- <a class="site-title {% if page.url == "/" | relative_url %}active{% endif %}" rel="author" href="{{ "/" | relative_url }}">
       {% if site.nav_title %}
         {{ site.nav_title }}
@@ -10,19 +10,24 @@
         {{ site.title | escape }}
       {% endif %}
     </a> -->
-    <a class="site-title {% if page.url == "/" | relative_url %}active{% endif %}" rel="author" href="{{ "/" | relative_url }}">
-      {% if site.nav_title %}
-        {{ site.nav_title }}
-      {% else %}
-        {{ site.title | escape }}
-      {% endif %}
-    </a>
+    <div class="site-title-stack" style="display:flex; flex-direction:column; line-height:1.1;">
+      <a class="site-title {% if page.url == "/" | relative_url %}active{% endif %}" 
+        rel="author" 
+        href="{{ "/" | relative_url }}"
+        style="font-size:1.6rem; font-weight:600;">
+        {% if site.nav_title %}
+          {{ site.nav_title }}
+        {% else %}
+          {{ site.title | escape }}
+        {% endif %}
+      </a>
 
-    {% if site.tagline %}
-      <div class="site-tagline" style="font-size: 0.75em; margin-top: -4px; color: #ccc;">
-        {{ site.tagline }}
-      </div>
-    {% endif %}
+      {% if site.tagline %}
+        <span class="site-tagline" style="font-size:0.9rem; opacity:0.8; margin-top:0.15rem;">
+          {{ site.tagline }}
+        </span>
+      {% endif %}
+    </div>
 
 
     {%- if page_paths -%}
