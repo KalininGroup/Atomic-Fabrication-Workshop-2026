@@ -22,7 +22,7 @@ The **DEMOCritus Workshop** will be held at the:
     <iframe 
       src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d310.277592279547!2d-77.06643980816025!3d38.80420442515272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x89b7b1aa1058c8a9%3A0x2a09196a83ae6e6f!2sEmbassy%20Suites%20by%20Hilton%20Alexandria%20Old%20Town%2C%201900%20Diagonal%20Rd%2C%20Alexandria%2C%20VA%2022314!3m2!1d38.8053365!2d-77.061186!4m5!1s0x89b7b4245b7c2a15%3A0x4b85ed20a7b436d0!2sNational%20Science%20Foundation%2C%202415%20Eisenhower%20Ave%2C%20Alexandria%2C%20VA%2022314!3m2!1d38.8014384!2d-77.0704427!5e0!3m2!1sen!2sus!4v1731275556000!5m2!1sen!2sus" 
       width="100%" 
-      height="600" 
+      height="640" 
       style="border:0; border-radius:12px;" 
       allowfullscreen="" 
       loading="lazy">
@@ -63,6 +63,7 @@ The **DEMOCritus Workshop** will be held at the:
   box-shadow: 0 3px 8px rgba(0,0,0,0.12);
 }
 </style>
+
 
 ---
 
