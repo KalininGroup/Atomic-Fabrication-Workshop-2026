@@ -1,5 +1,7 @@
-title: Atomic Fabrication Workshop
-nav_title: Atomic Fabrication Workshop
+title: DEMOCritus
+description: DEterministic MOlecular & Atomic Construction for Quantum Devices
+nav_title: Workshop 2026
+
 
 event_date: TBA
 registration_opens_date: TBA
@@ -8,8 +10,8 @@ registration_closes_date: TBA
 author:
 mailbox_address:
 
-description: |
-  Conference workshop on Atomic Fabrication
+# description: |
+#   Conference workshop on Atomic Fabrication
 
 # url: "https://kaliningroup.github.io/Atomic-Fabrication-Workshop-2026/"
 # github_repo: kaliningroup
