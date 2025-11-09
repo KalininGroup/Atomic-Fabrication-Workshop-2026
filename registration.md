@@ -111,13 +111,13 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
     </label>
 
     <label>Attendance
-      <select name="entry.401581971">
+    <select name="entry.401581971" required>
         <option value="">-- Select --</option>
         <option value="Both days">Both days</option>
-        <option value="Only Day 1">Only Day 1</option>
-        <option value="Only Day 2">Only Day 2</option>
+        <option value="Day 1">Day 1</option>
+        <option value="Day 2">Day 2</option>
         <option value="Not sure yet">Not sure yet</option>
-      </select>
+    </select>
     </label>
 
     <button type="submit" class="btn-submit" id="reg-submit">Submit Registration</button>
