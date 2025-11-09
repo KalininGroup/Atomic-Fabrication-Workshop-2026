@@ -36,6 +36,9 @@ menu_icon: clock
       <ul>
         <li><strong>David Awschalom (University of Chicago)</strong> — <em>Opening Keynote</em></li>
       </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: TBD</em>
+      </div>
     </td>
   </tr>
 
@@ -51,6 +54,9 @@ menu_icon: clock
         <li><strong>Marko Lončar (Harvard)</strong> — <em>Quantum Optical Interconnects</em></li>
         <li><strong>Shashank Misra (Sandia National Laboratories)</strong> — <em>Why is Silicon Quantum Computing Taking So Long?</em></li>
       </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: TBD</em>
+      </div>
     </td>
   </tr>
 
@@ -66,6 +72,9 @@ menu_icon: clock
         <li><strong>Danna Freedman (MIT)</strong> — <em>Molecular Color Centers</em></li>
         <li><strong>Xiuling Li (UT Austin)</strong> — <em>Quantum Sensing with Spin Defects in III-Nitrides</em></li>
       </ul>
+      <div style="margin-top:4px;">
+        <em>Chair: TBD</em>
+      </div>
     </td>
   </tr>
 
@@ -77,10 +86,13 @@ menu_icon: clock
     <td>
       <strong>Breakout Sessions</strong><br>
       <ul>
-        <li><strong>Breakout 1: Beams & Probes</strong> — <em>Lead: Marija Drndic (UPenn)</em> <!-- Marija Drndic (UPenn) --> </li>
-        <li><strong>Breakout 2: Silicon for Quantum</strong> — <em>Lead: Mark Ericcson (U Wisconsin)</em> <!-- Mark Ericcson (U Wisconsin) --> </li>
-        <li><strong>Breakout 3: Molecular Building Blocks</strong> — <em>Lead: Maria Kamenetska (BU)</em> <!-- Maria Kamenetska (BU) --> </li>
+        <li><strong>Breakout 1: Beams & Probes</strong> — <em>Lead: Marija Drndic (UPenn)</em></li>
+        <li><strong>Breakout 2: Silicon for Quantum</strong> — <em>Lead: Mark Ericcson (U Wisconsin)</em></li>
+        <li><strong>Breakout 3: Molecular Building Blocks</strong> — <em>Lead: Maria Kamenetska (BU)</em></li>
       </ul>
+      <div style="margin-top:4px;">
+        <em>Breakout Coordination Chair: TBD</em>
+      </div>
     </td>
   </tr>
 
@@ -92,6 +104,7 @@ menu_icon: clock
   </tr>
 
   <tr><td class="time">8:00 PM – close</td><td>Post-dinner Brainstorming</td></tr>
+
 </table>
 
 <hr>
