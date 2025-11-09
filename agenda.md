@@ -4,8 +4,6 @@ menu_title: Agenda
 menu_icon: clock
 ---
 
-# Tentative Agenda (subject to change)
-
 ***
 
 <h1>Tentative Agenda (subject to change)</h1>
@@ -56,7 +54,7 @@ menu_icon: clock
     </td>
   </tr>
 
-  <tr><td class="time">12:00 PM – 1:00 PM</td><td>Luncheon (provided)</td></tr>
+  <tr><td class="time">12:00 PM – 1:00 PM</td><td>Lunch (provided)</td></tr>
 
   <!-- SESSION 3 -->
   <tr>
@@ -76,8 +74,14 @@ menu_icon: clock
   <!-- BREAKOUTS -->
   <tr>
     <td class="time">3:00 PM – 5:30 PM</td>
-    <td><strong>Breakout Sessions</strong><br>
-    1. Beams & Probes • 2. Silicon for Quantum • 3. Molecular Building Blocks</td>
+    <td>
+      <strong>Breakout Sessions</strong><br>
+      <ul>
+        <li><strong>Breakout 1: Beams & Probes</strong> — <em>Lead: TBD</em> <!-- Marija Drndic (UPenn) --> </li>
+        <li><strong>Breakout 2: Silicon for Quantum</strong> — <em>Lead: TBD</em> <!-- Mark Ericcson (U Wisconsin) --> </li>
+        <li><strong>Breakout 3: Molecular Building Blocks</strong> — <em>Lead: TBD</em> <!-- Maria Kamenetska (BU) --> </li>
+      </ul>
+    </td>
   </tr>
 
   <tr><td class="time">6:00 PM – 7:00 PM</td><td>Dinner (TBD)</td></tr>
