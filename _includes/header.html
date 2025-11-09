@@ -10,24 +10,38 @@
         {{ site.title | escape }}
       {% endif %}
     </a> -->
-    <div class="site-title-stack" style="display:flex; flex-direction:column; line-height:1.1;">
-      <a class="site-title {% if page.url == "/" | relative_url %}active{% endif %}" 
-        rel="author" 
-        href="{{ "/" | relative_url }}"
-        style="font-size:1.6rem; font-weight:600;">
-        {% if site.nav_title %}
-          {{ site.nav_title }}
-        {% else %}
-          {{ site.title | escape }}
-        {% endif %}
-      </a>
+  <header class="site-header" role="banner">
+  <div class="wrapper" style="display:flex; justify-content:space-between; align-items:center;">
 
-      {% if site.tagline %}
-        <span class="site-tagline" style="font-size:0.9rem; opacity:0.8; margin-top:0.15rem;">
-          {{ site.tagline }}
-        </span>
+    <div class="brand-block" style="display:flex; align-items:center; gap:0.75rem;">
+
+      <!-- LOGO (uses whatever your site already uses) -->
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="Logo" style="height:40px;">
       {% endif %}
-    </div>
+
+      <!-- TITLE + TAGLINE STACKED -->
+      <div style="display:flex; flex-direction:column; line-height:1.1;">
+        <a class="site-title" 
+           rel="author" 
+           href="{{ "/" | relative_url }}"
+           style="font-size:1.6rem; font-weight:600;">
+          {% if site.nav_title %}
+            {{ site.nav_title }}
+          {% else %}
+            {{ site.title | escape }}
+          {% endif %}
+        </a>
+
+        {% if site.tagline %}
+          <span style="font-size:0.9rem; opacity:0.75; margin-top:0.2rem;">
+            {{ site.tagline }}
+          </span>
+        {% endif %}
+      </div>
+
+    </div> <!-- end brand-block -->
+
 
 
     {%- if page_paths -%}
