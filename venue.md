@@ -30,8 +30,8 @@ The **DEMOCritus Workshop** will be held at the:
   </div>
 
   <div class="venue-images">
-    <img src="/assets/embassy_suit.jpg" alt="Embassy Suites Hotel">
-    <img src="/assets/NSF-front-view.jpg" alt="NSF Headquarters">
+    <img src="{{ '/assets/embassy_suit.jpg' | relative_url }}" alt="Embassy Suites Hotel">
+    <img src="{{ '/assets/NSF-front-view.jpg' | relative_url }}" alt="NSF Headquarters">
   </div>
 
 </div>
