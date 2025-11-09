@@ -77,9 +77,9 @@ menu_icon: clock
     <td>
       <strong>Breakout Sessions</strong><br>
       <ul>
-        <li><strong>Breakout 1: Beams & Probes</strong> — <em>Lead: TBD</em> <!-- Marija Drndic (UPenn) --> </li>
-        <li><strong>Breakout 2: Silicon for Quantum</strong> — <em>Lead: TBD</em> <!-- Mark Ericcson (U Wisconsin) --> </li>
-        <li><strong>Breakout 3: Molecular Building Blocks</strong> — <em>Lead: TBD</em> <!-- Maria Kamenetska (BU) --> </li>
+        <li><strong>Breakout 1: Beams & Probes</strong> — <em>Lead: Marija Drndic (UPenn)</em> <!-- Marija Drndic (UPenn) --> </li>
+        <li><strong>Breakout 2: Silicon for Quantum</strong> — <em>Lead: Mark Ericcson (U Wisconsin)</em> <!-- Mark Ericcson (U Wisconsin) --> </li>
+        <li><strong>Breakout 3: Molecular Building Blocks</strong> — <em>Lead: Maria Kamenetska (BU)</em> <!-- Maria Kamenetska (BU) --> </li>
       </ul>
     </td>
   </tr>
