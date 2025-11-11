@@ -7,13 +7,11 @@ menu_icon: cloud-arrow-up
 
 
 <div style="text-align:center; margin-top:1.5rem; margin-bottom:2rem;">
-  <h1 style="margin-bottom:0.5rem;">Atomic Precision Fabrication for Quantum Technologies</h1>
-  <h3 style="font-weight:400; opacity:0.75;">Invitation-Only Workshop • February 19–20, 2026 • NSF Headquarters • Alexandria, VA</h3>
+  <h1 style="margin-bottom:0.5rem;">DEterministic MOlecular & Atomic Construction for Quantum Devices</h1>
+  <h3 style="font-weight:400; opacity:0.75;">Invitation-Only Workshop • February 19–20, 2026 • Alexandria, VA</h3>
 </div>
 
 ---
-
-### About the Workshop
 
 This **invitation-only workshop** will convene leading researchers across **materials science, nanofabrication, quantum information, and molecular systems**, together with key federal stakeholders (NSF, DoD, DOE).  
 The workshop will focus on identifying **strategic research opportunities** required to advance **atomically precise and molecularly programmable quantum device platforms**.
@@ -107,6 +105,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ---
 
+
 ### Workshop Roadmap (Coming Soon)
 
 <div style="background:#fafafa; padding:1.2rem 1.5rem; border-radius:6px; border:1px solid #e0e0e0; margin-top:0.5rem;">
@@ -115,13 +114,14 @@ The roadmap will be drafted during and after the workshop and will be shared her
 
 ---
 
+
 ### Participation
 
 This workshop is **invitation-only** to maintain focused discussion and actionable outcomes.  
 If you believe your research group or organization should be represented, please contact the organizers.
 
 **Workshop Chair:** Sergei V. Kalinin  
-**Contact:** *[insert preferred contact here]*
+**Contact:** *sergei2@utk.edu*
 
 <div style="text-align:center; font-size:0.9rem; opacity:0.7; margin-top:2rem;">
 More details and session structure will be posted as finalized.
