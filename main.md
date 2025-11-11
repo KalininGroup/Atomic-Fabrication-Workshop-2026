@@ -17,13 +17,7 @@ menu_icon: cloud-arrow-up
   background: linear-gradient(
     90deg,
     #2d2e32c3,
-    #004da5b7,
-    #000000c1,
-    #0a4710cc,
-    #3900779c,
     #0077ffc5,
-    #003cffc8,
-    #8c415ef6,
     #1f2025c3
   );
   background-size: 400% 100%; /* Needed for smooth sweeping effect */
@@ -45,7 +39,7 @@ menu_icon: cloud-arrow-up
 /* Gentle up–down wave motion */
 @keyframes floatwave {
   0%, 100% { transform: translateY(0px); }
-  50%      { transform: translateY(-4px); }
+  50%      { transform: translateY(-2px); }
 }
 
 /* Mobile scaling */
