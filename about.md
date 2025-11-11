@@ -1,5 +1,5 @@
 ---
-title: 
+title: About the Event
 menu_title: About
 layout: page
 menu_icon: info-circle 

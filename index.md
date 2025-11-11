@@ -1,64 +1,9 @@
 ---
 layout: page
-#title: DEMOCritus
+title: DEMOCritus
 menu_title: Home
 menu_icon: house-door
 ---
-
-<style>
-.wavy-title {
-  font-size: 3rem;
-  font-weight: 900;
-  text-align: center;
-  margin-top: 1.2rem;
-  margin-bottom: 1.5rem;
-
-  /* Gradient Color Animation */
-  background: linear-gradient(
-    90deg,
-    #6a00ff,
-    #0077ff,
-    #00d4ff,
-    #00ffb3,
-    #ffd000,
-    #ff7a00,
-    #ff006e,
-    #6a00ff
-  );
-  background-size: 600% 600%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation:
-    gradientflow 12s ease infinite,
-    wavefloat 4.5s ease-in-out infinite;
-  
-  /* Soft glow */
-  text-shadow: 0 0 22px rgba(0, 200, 255, 0.25);
-}
-
-@keyframes gradientflow {
-  0%   { background-position: 0% 50%; }
-  50%  { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-/* Gentle wave "lift and dip" motion */
-@keyframes wavefloat {
-  0%   { transform: translateY(0px); }
-  50%  { transform: translateY(-9px); }
-  100% { transform: translateY(0px); }
-}
-
-/* Mobile scaling */
-@media (max-width: 700px) {
-  .wavy-title {
-    font-size: 2.2rem;
-  }
-}
-</style>
-
-<h1 class="wavy-title">DEMOCritus</h1>
-
 
 <style>
 .animated-title {

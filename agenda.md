@@ -1,5 +1,5 @@
 ---
-title: 
+title: Agenda
 menu_title: Agenda
 menu_icon: clock
 ---
