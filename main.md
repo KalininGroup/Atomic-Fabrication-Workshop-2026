@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Main
+title: DEMOCritus
 menu_title: Main
 menu_icon: cloud-arrow-up
 ---
@@ -8,31 +8,55 @@ menu_icon: cloud-arrow-up
 
 <style>
 .animated-title {
-  font-size: 2.4rem;
-  font-weight: 800;
+  font-size: 2.8rem;
+  font-weight: 900;
+  text-align: center;
   letter-spacing: -0.5px;
 
-  background: linear-gradient(90deg, #003cff, #7a00ff, #003cff);
-  background-size: 300%; /* allows motion */
+  /* Multi-color gradient that will animate */
+  background: linear-gradient(
+    90deg,
+    #003cff,
+    #0077ff,
+    #7a00ff,
+    #ff008c,
+    #7a00ff,
+    #0077ff,
+    #003cff
+  );
+  background-size: 400% 100%; /* Needed for smooth sweeping effect */
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  animation: wave 4s ease-in-out infinite;
+  /* Combine color wave + soft vertical float motion */
+  animation: colorwave 7s linear infinite, floatwave 4s ease-in-out infinite;
 }
 
-@keyframes wave {
-  0%   { background-position: 0% 50%; transform: translateY(0); }
-  50%  { background-position: 100% 50%; transform: translateY(-4px); }
-  100% { background-position: 0% 50%; transform: translateY(0); }
+/* Left → Right color sweep */
+@keyframes colorwave {
+  0%   { background-position:   0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position:   0% 50%; }
 }
 
+/* Gentle up–down wave motion */
+@keyframes floatwave {
+  0%, 100% { transform: translateY(0px); }
+  50%      { transform: translateY(-6px); }
+}
+
+/* Mobile scaling */
 @media (max-width: 700px) {
   .animated-title {
-    font-size: 1.9rem;
+    font-size: 2rem;
   }
 }
 </style>
 
+<h1 class="animated-title">
+  DEterministic MOlecular & Atomic Construction for Quantum Devices
+</h1>
 
 
 ---
