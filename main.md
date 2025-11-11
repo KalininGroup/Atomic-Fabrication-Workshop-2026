@@ -7,7 +7,7 @@ menu_icon: cloud-arrow-up
 
 
 <div style="text-align:center; margin-top:1.5rem; margin-bottom:2rem;">
-  <h1 style="margin-bottom:0.5rem;">DEterministic MOlecular & Atomic Construction for Quantum Devices</h1>
+  <h1 style="margin-bottom:0.5rem;">**DEterministic MOlecular & Atomic Construction for Quantum Devices**</h1>
   <h3 style="font-weight:400; opacity:0.75;">Invitation-Only Workshop • February 19–20, 2026 • Alexandria, VA</h3>
 </div>
 
@@ -26,7 +26,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### 📽 Workshop Introductory Video (Coming Soon)
 
-<div style="text-align:center; margin-top:1rem; margin-bottom:1.5rem;">
+<div style="text-align:center; margin-top:1.5rem; margin-bottom:1.5rem;">
   <div style="width:100%; max-width:760px; margin:auto;">
     <div style="background:#e9ecef; border-radius:8px; padding:2.5rem; text-align:center; border:1px solid #ccc;">
       <p style="margin-bottom:0.5rem; opacity:0.7;"><em>Workshop Welcome / Overview</em></p>
@@ -39,7 +39,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### Confirmed Speakers
 
-<div style="margin-top:1.25rem; margin-bottom:1.25rem;">
+<div style="margin-top:1.5rem; margin-bottom:1.5rem;">
 <table style="width:100%; border-collapse:separate; border-spacing:0 12px;">
   <thead style="display:none;"></thead>
   <tbody>
@@ -108,7 +108,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### Workshop Roadmap (Coming Soon)
 
-<div style="background:#fafafa; padding:1.2rem 1.5rem; border-radius:6px; border:1px solid #e0e0e0; margin-top:0.5rem;">
+<div style="background:#fafafa; padding:1.2rem 1.5rem; border-radius:6px; border:1px solid #e0e0e0; margin-top:1.5rem;">
 The roadmap will be drafted during and after the workshop and will be shared here publicly following review and synthesis.
 </div>
 
