@@ -6,9 +6,9 @@ event_status:
  - open
 ---
 
-The **DEMOCritus Workshop** will be held at the:
-
 ### 🏨 Workshop Venue & Lodging
+
+The **DEMOCritus Workshop** will be held at the:
 **Embassy Suites by Hilton Alexandria Old Town**  
 1900 Diagonal Rd, Alexandria, VA 22314  
 
