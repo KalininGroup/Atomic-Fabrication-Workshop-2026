@@ -32,7 +32,7 @@ menu_icon: cloud-arrow-up
   -webkit-text-fill-color: transparent;
 
   /* Combine color wave + soft vertical float motion */
-  animation: colorwave 7s linear infinite, floatwave 4s ease-in-out infinite;
+  animation: colorwave 20s linear infinite, floatwave 10s ease-in-out infinite;
 }
 
 /* Left → Right color sweep */
