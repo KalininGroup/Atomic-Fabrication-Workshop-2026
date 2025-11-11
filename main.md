@@ -6,10 +6,39 @@ menu_icon: cloud-arrow-up
 ---
 
 
-<div style="text-align:center; margin-top:1.5rem; margin-bottom:2rem;">
-  <h1 style="margin-bottom:0.5rem;">**DEterministic MOlecular & Atomic Construction for Quantum Devices**</h1>
-  <h3 style="font-weight:400; opacity:0.75;">Invitation-Only Workshop • February 19–20, 2026 • Alexandria, VA</h3>
+<div style="text-align:center; margin-top:1.5rem; margin-bottom:2.5rem;">
+  <h1 class="animated-title">DEterministic MOlecular & Atomic Construction for Quantum Devices</h1>
+  <h3 style="font-weight:400; opacity:0.75; margin-top:0.8rem;">
+    Invitation-Only Workshop • February 19–20, 2026 • Alexandria, VA
+  </h3>
 </div>
+
+<style>
+.animated-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  background: linear-gradient(90deg, #002f6c, #0077ff, #002f6c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  animation: wave 4s ease-in-out infinite;
+}
+
+/* Soft shimmer/wave effect */
+@keyframes wave {
+  0% { filter: brightness(1); transform: translateY(0px); }
+  50% { filter: brightness(1.25); transform: translateY(-3px); }
+  100% { filter: brightness(1); transform: translateY(0px); }
+}
+
+@media (max-width: 700px) {
+  .animated-title {
+    font-size: 1.9rem;
+  }
+}
+</style>
+
 
 ---
 
