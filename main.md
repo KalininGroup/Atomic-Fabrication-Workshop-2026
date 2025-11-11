@@ -24,7 +24,7 @@ menu_icon: cloud-arrow-up
     #0077ffc5,
     #003cffc8,
     #ff0062c9,
-    #1f2025c3,
+    #1f2025c3
   );
   background-size: 400% 100%; /* Needed for smooth sweeping effect */
 

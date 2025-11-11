@@ -23,7 +23,7 @@ menu_icon: house-door
     #0077ffc5,
     #003cffc8,
     #ff00629e,
-    #1f2025c3,
+    #1f2025c3
   );
   background-size: 400% 100%; /* Needed for smooth sweeping effect */
 
