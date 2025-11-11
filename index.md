@@ -17,13 +17,13 @@ menu_icon: house-door
     90deg,
     #2d2e32c3,
     #004da5b7,
-    #ffe100a3,
-    #00c814a0,
-    #7b00ff9c,
+    #000000c1,
+    #0a4710cc,
+    #3900779c,
     #0077ffc5,
     #003cffc8,
-    #ff00629e,
-    #1f2025c3,
+    #8c415ef6,
+    #1f2025c3
   );
   background-size: 400% 100%; /* Needed for smooth sweeping effect */
 
@@ -31,7 +31,7 @@ menu_icon: house-door
   -webkit-text-fill-color: transparent;
 
   /* Combine color wave + soft vertical float motion */
-  animation: colorwave 7s linear infinite, floatwave 4s ease-in-out infinite;
+  animation: colorwave 35s linear infinite, floatwave 15s ease-in-out infinite;
 }
 
 /* Left → Right color sweep */
