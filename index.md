@@ -31,7 +31,7 @@ menu_icon: house-door
   -webkit-text-fill-color: transparent;
 
   /* Combine color wave + soft vertical float motion */
-  animation: colorwave 20s linear infinite, floatwave 10s ease-in-out infinite;
+  animation: colorwave 35s linear infinite, floatwave 15s ease-in-out infinite;
 }
 
 /* Left → Right color sweep */
