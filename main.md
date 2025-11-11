@@ -16,13 +16,15 @@ menu_icon: cloud-arrow-up
   /* Multi-color gradient that will animate */
   background: linear-gradient(
     90deg,
-    #003cff,
-    #0077ff,
-    #7a00ff,
-    #ff008c,
-    #7a00ff,
-    #0077ff,
-    #003cff
+    #2d2e32c3,
+    #004da5b7,
+    #ffe100a3,
+    #00c814a0,
+    #7b00ff9c,
+    #0077ffc5,
+    #003cffc8,
+    #ff0062c9,
+    #1f2025c3,
   );
   background-size: 400% 100%; /* Needed for smooth sweeping effect */
 
@@ -43,7 +45,7 @@ menu_icon: cloud-arrow-up
 /* Gentle up–down wave motion */
 @keyframes floatwave {
   0%, 100% { transform: translateY(0px); }
-  50%      { transform: translateY(-6px); }
+  50%      { transform: translateY(-4px); }
 }
 
 /* Mobile scaling */
