@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: DEMOCritus
+title: 
 menu_title: Main
 menu_icon: cloud-arrow-up
 ---
