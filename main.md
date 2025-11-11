@@ -27,9 +27,9 @@ menu_icon: cloud-arrow-up
 
 /* Soft shimmer/wave effect */
 @keyframes wave {
-  0% { filter: brightness(1); transform: translateY(0px); }
-  50% { filter: brightness(1.25); transform: translateY(-3px); }
-  100% { filter: brightness(1); transform: translateY(0px); }
+  0%   { color: #003cff; transform: translateY(0px); }
+  50%  { color: #7a00ff; transform: translateY(-6px); }
+  100% { color: #003cff; transform: translateY(0px); }
 }
 
 @media (max-width: 700px) {
