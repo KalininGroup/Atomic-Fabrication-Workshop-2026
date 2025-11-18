@@ -68,15 +68,33 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### 📽 Workshop Introductory Videos
 
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:1.5rem;">
+<div style="
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+  justify-content:center;
+  margin-top:1.5rem;
+">
 
   <!-- Video 1 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
+  <video autoplay muted loop playsinline
+         style="
+           width:48%;
+           min-width:300px;
+           border-radius:8px;
+           border:3px solid #ccc;
+         ">
     <source src="{{ '/assets/moving-Si-1.mp4' | relative_url }}" type="video/mp4">
   </video>
 
   <!-- Video 2 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
+  <video autoplay muted loop playsinline
+         style="
+           width:48%;
+           min-width:300px;
+           border-radius:8px;
+           border:3px solid #ccc;
+         ">
     <source src="{{ '/assets/moving-Si-2.mp4' | relative_url }}" type="video/mp4">
   </video>
 
