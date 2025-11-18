@@ -68,19 +68,46 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### 📽 Workshop Introductory Videos
 
-<div style="display:flex; gap:20px; flex-wrap:wrap; justify-content:center; margin-top:1.5rem;">
+<div style="
+  display:flex;
+  gap:20px;
+  flex-wrap:wrap;
+  justify-content:center;
+  margin-top:1.5rem;
+">
 
-  <!-- Video 1 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
-    <source src="{{ '/assets/moving-Si-1.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <!-- Video 1 Column -->
+  <div style="width:38%; min-width:260px; text-align:center;">
+    <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
+      Controllable motion (Si adatom on graphene): in circle
+    </div>
+    <video autoplay muted loop playsinline
+           style="
+             width:100%;
+             border-radius:8px;
+             border:3px solid #ccc;
+           ">
+      <source src="{{ '/assets/moving-Si-1.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
 
-  <!-- Video 2 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
-    <source src="{{ '/assets/moving-Si-2.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <!-- Video 2 Column -->
+  <div style="width:38%; min-width:260px; text-align:center;">
+    <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
+      Controllable motion (Si adatom on graphene): in line
+    </div>
+    <video autoplay muted loop playsinline
+           style="
+             width:100%;
+             border-radius:8px;
+             border:3px solid #ccc;
+           ">
+      <source src="{{ '/assets/moving-Si-2.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
 
 </div>
+
 
 
 ---
@@ -154,11 +181,20 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ---
 
 
-### Workshop Roadmap (Coming Soon)
+### DEMOCritus Roadmap
 
-<div style="background:#fafafa; padding:1.2rem 1.5rem; border-radius:6px; border:1px solid #e0e0e0; margin-top:1.5rem;">
-The roadmap will be drafted during and after the workshop and will be shared here publicly following review and synthesis.
+<div style="margin-top:1.5rem;">
+  <h3>DEMOcritus Roadmap (Draft)</h3>
+
+  <embed 
+      src="{{ '/assets/roadmap.pdf' | relative_url }}" 
+      type="application/pdf" 
+      width="100%" 
+      height="700px"
+      style="border:1px solid #ccc; border-radius:6px;">
 </div>
+
+
 
 ---
 
