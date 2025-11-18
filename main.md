@@ -182,17 +182,14 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ---
 
 
-### Workshop Roadmap (Coming Soon)
-
-
+### DEMOCritus Roadmap
 <div style="margin-top:1.5rem;">
-  <h3>DEMOcritus Roadmap</h3>
-
   <img 
       src="{{ '/assets/roadmap.png' | relative_url }}" 
       alt="DEMOcritus Roadmap"
       style="width:100%; max-width:1200px; border:1px solid #ccc; border-radius:6px; display:block; margin:auto;">
 </div>
+
 ---
 
 
