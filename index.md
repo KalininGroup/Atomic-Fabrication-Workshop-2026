@@ -71,9 +71,10 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:1.5rem;">
 
   <!-- Video 1 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
+  <video autoplay muted loop playsinline
+        onplay="this.setAttribute('controls','controls')"
+        style="width:48%; min-width:300px; border-radius:8px;">
     <source src="/assets/moving-Si-1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 
   <!-- Video 2 -->
