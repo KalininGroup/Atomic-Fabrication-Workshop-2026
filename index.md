@@ -183,15 +183,17 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ### DEMOCritus Roadmap
 
-<div style="background:#fafafa; padding:1.2rem 1.5rem; border-radius:6px; border:1px solid #e0e0e0; margin-top:1.5rem; text-align:center;">
-  <p><strong>DEMOCritus Roadmap (Draft)</strong></p>
-  <a href="{{ '/assets/roadmap.pdf' | relative_url }}" target="_blank" 
-     style="display:inline-block; padding:0.55rem 1rem; background:#007BFF; color:white; border-radius:4px; text-decoration:none; margin-top:0.5rem;">
-     📄 Open Roadmap PDF
-  </a>
+<div style="margin-top:1.5rem;">
+  <h3>DEMOcritus Roadmap (Draft)</h3>
+
+  <embed 
+      src="{{ '/assets/roadmap.pdf' | relative_url }}" 
+      type="application/pdf" 
+      width="100%" 
+      height="700px"
+      style="border:1px solid #ccc; border-radius:6px;">
 </div>
 
-<hr style="margin-top:2rem;">
 
 
 ---
