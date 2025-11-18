@@ -67,34 +67,6 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ---
 
 ### 📽 Workshop Introductory Videos
-<div style="display:flex; gap:20px; flex-wrap:wrap;">
-
-  <!-- Video 1 -->
-  <div class="video" style="flex:1 1 300px;">
-    <div class="video-container">
-      <iframe
-        src="https://drive.google.com/file/d/1pCMyD8MziBtIK3ggcWHTjD7Pswty5EXG/preview"
-        allow="autoplay"
-        allowfullscreen>
-      </iframe>
-    </div>
-  </div>
-
-  <!-- Video 2 -->
-  <div class="video" style="flex:1 1 300px;">
-    <div class="video-container">
-      <iframe
-        src="https://drive.google.com/file/d/1sPODGC-GpzruDo3WfvGieQuUt8TG9MYI/preview"
-        allow="autoplay"
-        allowfullscreen>
-      </iframe>
-    </div>
-  </div>
-
-</div>
-
-
-
 
 ---
 
