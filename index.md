@@ -76,29 +76,38 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
   margin-top:1.5rem;
 ">
 
-  <!-- Video 1 -->
-  <video autoplay muted loop playsinline
-         style="
-           width:48%;
-           min-width:300px;
-           border-radius:8px;
-           border:3px solid #ccc;
-         ">
-    <source src="{{ '/assets/moving-Si-1.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <!-- Video 1 Column -->
+  <div style="width:38%; min-width:260px; text-align:center;">
+    <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
+      Controllable motion (Si adatom on graphene): in circle
+    </div>
+    <video autoplay muted loop playsinline
+           style="
+             width:100%;
+             border-radius:8px;
+             border:3px solid #ccc;
+           ">
+      <source src="{{ '/assets/moving-Si-1.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
 
-  <!-- Video 2 -->
-  <video autoplay muted loop playsinline
-         style="
-           width:48%;
-           min-width:300px;
-           border-radius:8px;
-           border:3px solid #ccc;
-         ">
-    <source src="{{ '/assets/moving-Si-2.mp4' | relative_url }}" type="video/mp4">
-  </video>
+  <!-- Video 2 Column -->
+  <div style="width:38%; min-width:260px; text-align:center;">
+    <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
+      Controllable motion (Si adatom on graphene): in line
+    </div>
+    <video autoplay muted loop playsinline
+           style="
+             width:100%;
+             border-radius:8px;
+             border:3px solid #ccc;
+           ">
+      <source src="{{ '/assets/moving-Si-2.mp4' | relative_url }}" type="video/mp4">
+    </video>
+  </div>
 
 </div>
+
 
 
 ---
