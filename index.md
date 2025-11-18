@@ -71,19 +71,31 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:1.5rem;">
 
   <!-- Video 1 -->
-  <video autoplay muted loop playsinline
-        onplay="this.setAttribute('controls','controls')"
-        style="width:48%; min-width:300px; border-radius:8px;">
-    <source src="/assets/moving-Si-1.mp4" type="video/mp4">
-  </video>
+  <div class="video">
+    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+      <iframe
+        src="https://drive.google.com/file/d/1pCMyD8MziBtIK3ggcWHTjD7Pswty5EXG/preview"
+        allow="autoplay"
+        allowfullscreen
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+      </iframe>
+    </div>
+  </div>
 
   <!-- Video 2 -->
-  <video controls style="width:48%; min-width:300px; border-radius:8px;">
-    <source src="/assets/moving-Si-2.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <div class="video">
+    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+      <iframe
+        src="https://drive.google.com/file/d/1sPODGC-GpzruDo3WfvGieQuUt8TG9MYI/preview"
+        allow="autoplay"
+        allowfullscreen
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+      </iframe>
+    </div>
+  </div>
 
 </div>
+
 
 
 ---
