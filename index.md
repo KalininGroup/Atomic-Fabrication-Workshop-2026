@@ -67,34 +67,32 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ---
 
 ### 📽 Workshop Introductory Videos
-
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:1.5rem;">
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
 
   <!-- Video 1 -->
-  <div class="video">
-    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+  <div class="video" style="flex:1 1 300px;">
+    <div class="video-container">
       <iframe
         src="https://drive.google.com/file/d/1pCMyD8MziBtIK3ggcWHTjD7Pswty5EXG/preview"
         allow="autoplay"
-        allowfullscreen
-        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+        allowfullscreen>
       </iframe>
     </div>
   </div>
 
   <!-- Video 2 -->
-  <div class="video">
-    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+  <div class="video" style="flex:1 1 300px;">
+    <div class="video-container">
       <iframe
         src="https://drive.google.com/file/d/1sPODGC-GpzruDo3WfvGieQuUt8TG9MYI/preview"
         allow="autoplay"
-        allowfullscreen
-        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+        allowfullscreen>
       </iframe>
     </div>
   </div>
 
 </div>
+
 
 
 
