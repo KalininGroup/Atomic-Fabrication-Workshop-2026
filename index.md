@@ -66,16 +66,37 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 
 ---
 
-### 📽 Workshop Introductory Video (Coming Soon)
+### 📽 Workshop Introductory Videos
 
-<div style="text-align:center; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="width:100%; max-width:760px; margin:auto;">
-    <div style="background:#e9ecef; border-radius:8px; padding:2.5rem; text-align:center; border:1px solid #ccc;">
-      <p style="margin-bottom:0.5rem; opacity:0.7;"><em>Workshop Welcome / Overview</em></p>
-      <p style="font-size:0.9rem; opacity:0.5;">Video placeholder — You may insert a YouTube/Vimeo embed here when available.</p>
+<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:1.5rem;">
+
+  <!-- Video 1 -->
+  <div class="video">
+    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+      <iframe
+        src="https://drive.google.com/file/d/1pCMyD8MziBtIK3ggcWHTjD7Pswty5EXG/preview"
+        allow="autoplay"
+        allowfullscreen
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+      </iframe>
     </div>
   </div>
+
+  <!-- Video 2 -->
+  <div class="video">
+    <div class="video-container" style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:8px;">
+      <iframe
+        src="https://drive.google.com/file/d/1sPODGC-GpzruDo3WfvGieQuUt8TG9MYI/preview"
+        allow="autoplay"
+        allowfullscreen
+        style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;">
+      </iframe>
+    </div>
+  </div>
+
 </div>
+
+
 
 ---
 
