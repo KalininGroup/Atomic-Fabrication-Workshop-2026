@@ -185,13 +185,12 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ### DEMOCritus Roadmap
 <div style="margin-top:1.5rem;">
   <img 
-      src="{{ '/assets/roadmap.png' | relative_url }}" 
+      src="{{ '/assets/roadmap_2.png' | relative_url }}" 
       alt="DEMOcritus Roadmap"
       style="width:100%; max-width:1200px; border:1px solid #ccc; border-radius:6px; display:block; margin:auto;">
 </div>
 
 ---
-
 
 ### Participation
 
