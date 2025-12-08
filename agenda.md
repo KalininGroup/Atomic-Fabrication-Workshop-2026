@@ -53,7 +53,7 @@ menu_icon: clock
       <ul>
         <li><strong>John Randall, Zyvex Labs</strong> — <em>Atomic Scale Fabrication - a Top-Down Digital Approach</em></li>
         <li><strong>Jean Luke Bredas, ...</strong> — <em>TBD</em></li>
-        <li><strong>Michael Wasiliewski, ...</strong> — <em>TBD</em></li>
+        <li><strong>Michael Wasielewski, ...</strong> — <em>TBD</em></li>
       </ul>
       <div style="margin-top:4px;">
         <em>Chair: Shashank Misra, Sandia National Laboratories</em> 
