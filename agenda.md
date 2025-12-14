@@ -32,7 +32,7 @@ menu_icon: clock
   <tr>
     <td class="time">9:10 AM – 10:10 AM</td>
     <td>
-      <strong>Session 1: Plenary</strong><br>
+      <strong>Session 1: Opening and Vision</strong><br>
       <ul>
         <li><strong>David Awschalom, University of Chicago</strong> — <em>Opening Keynote</em></li>
         <li><strong>Susanne Stemmer, UCSB</strong> — <em>Topological Materials for Quantum Information Systems</em></li>
