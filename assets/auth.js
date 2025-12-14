@@ -1,6 +1,6 @@
 (async function () {
   // 1) Put your SHA-256 hash here (NOT the plain password)
-  const HASH = "dfa1d888e7784fd68bdcc565f72ab29c50e830a3fb9bb2c22feeded2f2aea775";
+  const HASH = "ef631b32d1dcffdee82523d5fbc28ea4246167248c25ffc502fb07e00c7ffde5";
 
   // 2) Hide until we decide
   document.documentElement.style.visibility = "hidden";
