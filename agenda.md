@@ -78,7 +78,10 @@ menu_icon: clock
 
   <tr>
     <td class="time">12:00 PM – 1:00 PM</td>
-    <td>Lunch (provided)</td>
+    <td>
+      Lunch (provided)<br>
+      <em>Lunch Talk: Weiss</em>
+    </td>
   </tr>
 
   <tr>
@@ -93,18 +96,26 @@ menu_icon: clock
       <ul>
         <li>Charles Marcus, University of Washington</li>
         <li>Marco Lončar, Harvard University — <em>Quantum Optical Interconnects</em></li>
+      </ul>
       <em>Chair: Junichiro Kono, Rice University</em>
 
       <p style="margin-top:12px;"><strong>Breakout 2: Soft Quantum and Molecular Self-Assembly</strong></p>
       <ul>
-        <li>Greg Tikhomirov, University of California, Berkeley — <em>Democratizing Nanofabrication of Quantum Systems via Molecular Self-assembly</em></li>
-        <li>Ulrich Wiesner, Cornell University — <em>The Promise of Soft Matter Enabled Quantum Devices</em></li>
+        <li>
+          Greg Tikhomirov, University of California, Berkeley —
+          <em>Democratizing Nanofabrication of Quantum Systems via Molecular Self-assembly</em>
+        </li>
+        <li>
+          Ulrich Wiesner, Cornell University —
+          <em>The Promise of Soft Matter Enabled Quantum Devices</em>
+        </li>
       </ul>
       <em>Chair: Open</em>
 
       <p style="margin-top:12px;"><strong>Breakout 3: Molecular Building Blocks and Hybrid Quantum Platforms</strong></p>
-      <em>Discussion-led breakout with open participant contributions</em><br>
-      <li>Greg Fuchs, Cornell University — <em>Open Slot</em></li>
+      <p>Discussion-led breakout with open participant contributions</p>
+      <ul>
+        <li>Greg Fuchs, Cornell University</li>
       </ul>
       <em>Chair: Open</em>
     </td>
@@ -181,7 +192,7 @@ menu_icon: clock
       <ul>
         <li>Xiuling Li, University of Texas at Austin — <em>Quantum Sensing with Spin Defects in III-Nitrides</em></li>
         <li>Danna Freedman, MIT — <em>Molecular Color Centers</em></li>
-        <li><em>Open Slot</em></li>
+        <li><strong>Quantum Foundry (Montana)</strong> — <em>Open Slot</em></li>
         <li><em>Open Slot</em></li>
       </ul>
       <em>Chair: Robert Butera, Georgia Institute of Technology</em>
@@ -190,7 +201,10 @@ menu_icon: clock
 
   <tr>
     <td class="time">12:00 PM – 1:00 PM</td>
-    <td>Lunch</td>
+    <td>
+      Lunch<br>
+      <em>Lunch Talk: Yves Idzerda or Menache</em>
+    </td>
   </tr>
 
   <tr>
