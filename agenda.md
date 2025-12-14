@@ -80,7 +80,7 @@ menu_icon: clock
     <td class="time">12:00 PM – 1:00 PM</td>
     <td>
       Lunch (provided)<br>
-      <em>Lunch Talk: Weiss</em>
+      <em>Paul Weiss</em>
     </td>
   </tr>
 
@@ -88,9 +88,7 @@ menu_icon: clock
     <td class="time">1:00 PM – 4:00 PM</td>
     <td>
       <strong>Breakout Sessions (parallel)</strong>
-      <p>
-        Three parallel breakout groups run continuously from 1:00–4:00 PM, with a shared coffee break embedded.
-      </p>
+      Discussion-led breakout with open participant contributions</p>
 
       <p><strong>Breakout 1: Nanotubes, Spins, and Optics</strong></p>
       <ul>
@@ -113,7 +111,6 @@ menu_icon: clock
       <em>Chair: Open</em>
 
       <p style="margin-top:12px;"><strong>Breakout 3: Molecular Building Blocks and Hybrid Quantum Platforms</strong></p>
-      <p>Discussion-led breakout with open participant contributions</p>
       <ul>
         <li>Greg Fuchs, Cornell University</li>
       </ul>
@@ -123,7 +120,7 @@ menu_icon: clock
 
   <tr>
     <td class="time">2:00 PM – 2:15 PM</td>
-    <td>Coffee Break (within breakout block)</td>
+    <td>Coffee Break</td>
   </tr>
 
   <tr>
@@ -192,7 +189,7 @@ menu_icon: clock
       <ul>
         <li>Xiuling Li, University of Texas at Austin — <em>Quantum Sensing with Spin Defects in III-Nitrides</em></li>
         <li>Danna Freedman, MIT — <em>Molecular Color Centers</em></li>
-        <li><strong>Quantum Foundry (Montana)</strong> — <em>Open Slot</em></li>
+        <li><strong>Quantum Foundry</strong> — <em>Open Slot</em></li>
         <li><em>Open Slot</em></li>
       </ul>
       <em>Chair: Robert Butera, Georgia Institute of Technology</em>
@@ -203,14 +200,14 @@ menu_icon: clock
     <td class="time">12:00 PM – 1:00 PM</td>
     <td>
       Lunch<br>
-      <em>Lunch Talk: Yves Idzerda or Menache</em>
+      <em>Yves Idzerda or Menache</em>
     </td>
   </tr>
 
   <tr>
     <td class="time">1:00 PM – 4:00 PM</td>
     <td>
-      <strong>Breakout Sessions (parallel)</strong>
+      <strong>Breakout Sessions</strong>
       <ul>
         <li>Nanotubes, Spins, and Optics</li>
         <li>Soft Quantum and Molecular Self-Assembly</li>
@@ -221,7 +218,7 @@ menu_icon: clock
 
   <tr>
     <td class="time">2:00 PM – 2:15 PM</td>
-    <td>Coffee Break (within breakout block)</td>
+    <td>Coffee Break</td>
   </tr>
 
   <tr>
