@@ -79,7 +79,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
   <!-- Video 1 Column -->
   <div style="width:38%; min-width:260px; text-align:center;">
     <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
-      Controllable motion (Si adatom on graphene): in circle
+      Controllable motion (Si adatom on graphene): in line
     </div>
     <video autoplay muted loop playsinline
            style="
@@ -94,7 +94,7 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
   <!-- Video 2 Column -->
   <div style="width:38%; min-width:260px; text-align:center;">
     <div style="margin-bottom:8px; font-weight:bold; color:#0044cc;">
-      Controllable motion (Si adatom on graphene): in line
+      Controllable motion (Si adatom on graphene): in circle
     </div>
     <video autoplay muted loop playsinline
            style="
@@ -184,13 +184,12 @@ A major output will be a collaboratively authored **Roadmap for Atomic Precision
 ### DEMOCritus Roadmap
 <div style="margin-top:1.5rem;">
   <img 
-      src="{{ '/assets/roadmap.png' | relative_url }}" 
+      src="{{ '/assets/roadmap_2.png' | relative_url }}" 
       alt="DEMOcritus Roadmap"
       style="width:100%; max-width:1200px; border:1px solid #ccc; border-radius:6px; display:block; margin:auto;">
 </div>
 
 ---
-
 
 ### Participation
 
