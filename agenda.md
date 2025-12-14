@@ -91,10 +91,8 @@ menu_icon: clock
 
       <p><strong>Breakout 1: Nanotubes, Spins, and Optics</strong></p>
       <ul>
-        <li>Charles Marcus, University of Washington — <em>Open Slot</em></li>
+        <li>Charles Marcus, University of Washington</li>
         <li>Marco Lončar, Harvard University — <em>Quantum Optical Interconnects</em></li>
-        <li>Greg Fuchs, Cornell University — <em>Open Slot</em></li>
-      </ul>
       <em>Chair: Junichiro Kono, Rice University</em>
 
       <p style="margin-top:12px;"><strong>Breakout 2: Soft Quantum and Molecular Self-Assembly</strong></p>
@@ -106,6 +104,8 @@ menu_icon: clock
 
       <p style="margin-top:12px;"><strong>Breakout 3: Molecular Building Blocks and Hybrid Quantum Platforms</strong></p>
       <em>Discussion-led breakout with open participant contributions</em><br>
+      <li>Greg Fuchs, Cornell University — <em>Open Slot</em></li>
+      </ul>
       <em>Chair: Open</em>
     </td>
   </tr>
