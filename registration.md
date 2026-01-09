@@ -140,6 +140,7 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 
 </form>
 
+
 <div id="reg-success">
   ✅ Thank you! Your registration has been successfully received.
 </div>
