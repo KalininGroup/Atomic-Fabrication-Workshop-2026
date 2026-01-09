@@ -11,8 +11,8 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 <style>
 .reg-card {
   max-width: 760px;
-  margin: 1.5rem auto;
-  padding: 1.6rem 1.9rem;
+  margin: 2rem auto;
+  padding: 1.8rem 2rem;
   background: #ffffff;
   border: 1px solid #e6e6e6;
   border-radius: 14px;
@@ -21,22 +21,22 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 
 .reg-card h2 {
   margin-top: 0;
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   font-weight: 600;
   text-align: center;
 }
 
-.reg-form label.section-title {
-  display:block;
-  font-weight:600;
-  margin-top:1.3rem;
-  margin-bottom:.4rem;
+.reg-form label {
+  display: block;
+  font-weight: 600;
+  margin-top: 1.2rem;
 }
 
 .reg-form input,
-.reg-form textarea {
+.reg-form textarea,
+.reg-form select {
   width: 100%;
-  padding: .65rem .75rem;
+  padding: .7rem .8rem;
   border: 1px solid #d0d0d0;
   border-radius: 8px;
   background: #fafafa;
@@ -45,33 +45,16 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 
 .reg-form textarea {
   resize: vertical;
-  min-height: 110px;
+  min-height: 120px;
 }
 
 .reg-form input:focus,
-.reg-form textarea:focus {
+.reg-form textarea:focus,
+.reg-form select:focus {
   border-color: #3066e8;
   background: #fff;
   outline: none;
   box-shadow: 0 0 0 3px rgba(48,102,232,0.18);
-}
-
-.radio-group {
-  margin-top:.4rem;
-}
-
-.radio-group label {
-  display:flex;
-  align-items:center;
-  gap:10px;
-  font-weight:400;
-  margin-top:.5rem;
-  cursor:pointer;
-}
-
-.radio-group input[type="radio"] {
-  margin:0;
-  transform:scale(1.05);
 }
 
 .btn-submit {
@@ -92,15 +75,15 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 }
 
 #reg-success {
-  display:none;
-  margin-top:1.4rem;
-  padding:1rem 1.3rem;
-  background:#e8f5e9;
-  border:1px solid #c8e6c9;
-  border-radius:8px;
-  color:#256029;
-  font-weight:600;
-  text-align:center;
+  display: none;
+  margin-top: 1.4rem;
+  padding: 1rem 1.3rem;
+  background: #e8f5e9;
+  border: 1px solid #c8e6c9;
+  border-radius: 8px;
+  color: #256029;
+  font-weight: 600;
+  text-align: center;
 }
 </style>
 
@@ -111,33 +94,44 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 
 <form class="reg-form" id="registration-form">
 
-  <label class="section-title">Full Name *</label>
-  <input type="text" name="entry.1673288629" required>
+  <label>Full Name *
+    <input type="text" name="entry.1673288629" required>
+  </label>
 
-  <label class="section-title">Email Address *</label>
-  <input type="email" name="entry.1726498577" required>
+  <label>Email *
+    <input type="email" name="entry.1726498577" required>
+  </label>
 
-  <label class="section-title">University / Institution *</label>
-  <input type="text" name="entry.2110780877" required>
+  <label>University / Institution *
+    <input type="text" name="entry.2110780877" required>
+  </label>
 
-  <label class="section-title">Dietary / Food Preferences *</label>
-  <div class="radio-group">
-    <label><input type="radio" name="entry.408319094" value="No restrictions" required> No restrictions</label>
-    <label><input type="radio" name="entry.408319094" value="Vegetarian"> Vegetarian</label>
-    <label><input type="radio" name="entry.408319094" value="Halal"> Halal</label>
-    <label><input type="radio" name="entry.408319094" value="Gluten-free"> Gluten-free</label>
-    <label><input type="radio" name="entry.408319094" value="Other"> Other</label>
-  </div>
+  <label>Dietary Requirements *
+    <select name="entry.408319094" required>
+      <option value="">-- Select --</option>
+      <option value="No restrictions">No restrictions</option>
+      <option value="Vegetarian">Vegetarian</option>
+      <option value="Vegan">Vegan</option>
+      <option value="Halal">Halal</option>
+      <option value="Kosher">Kosher</option>
+      <option value="Gluten-free">Gluten-free</option>
+      <option value="Other">Other</option>
+    </select>
+  </label>
 
-  <label class="section-title">Research Area</label>
-  <input type="text" name="entry.859023005">
+  <label>Research Area (optional)
+    <textarea name="entry.859023005" placeholder="e.g., atomic fabrication, microscopy, quantum devices"></textarea>
+  </label>
 
-  <label class="section-title">Attendance *</label>
-  <div class="radio-group">
-    <label><input type="radio" name="entry.401581971" value="Day 1" required> Day 1</label>
-    <label><input type="radio" name="entry.401581971" value="Day 2"> Day 2</label>
-    <label><input type="radio" name="entry.401581971" value="Both days"> Both days</label>
-  </div>
+  <label>Attendance *
+    <select name="entry.401581971" required>
+      <option value="">-- Select --</option>
+      <option value="Both days">Both days</option>
+      <option value="Day 1">Day 1</option>
+      <option value="Day 2">Day 2</option>
+      <option value="Not sure yet">Not sure yet</option>
+    </select>
+  </label>
 
   <button type="submit" class="btn-submit" id="reg-submit">
     Submit Registration
