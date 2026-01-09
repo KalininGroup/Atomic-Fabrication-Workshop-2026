@@ -26,10 +26,11 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
   text-align: center;
 }
 
-.reg-form label {
-  display: block;
-  font-weight: 600;
-  margin-top: 1.1rem;
+.reg-form label.section-title {
+  display:block;
+  font-weight:600;
+  margin-top:1.3rem;
+  margin-bottom:.4rem;
 }
 
 .reg-form input,
@@ -56,18 +57,26 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 }
 
 .radio-group {
-  margin-top: .6rem;
+  margin-top:.4rem;
 }
 
 .radio-group label {
-  font-weight: 400;
-  display: block;
-  margin-top: .4rem;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  font-weight:400;
+  margin-top:.5rem;
+  cursor:pointer;
+}
+
+.radio-group input[type="radio"] {
+  margin:0;
+  transform:scale(1.05);
 }
 
 .btn-submit {
-  margin-top: 1.6rem;
-  padding: .75rem 1.4rem;
+  margin-top: 1.8rem;
+  padding: .8rem 1.4rem;
   background: #3066e8;
   color: #fff;
   border-radius: 8px;
@@ -83,15 +92,15 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 }
 
 #reg-success {
-  display: none;
-  margin-top: 1.4rem;
-  padding: 1rem 1.3rem;
-  background: #e8f5e9;
-  border: 1px solid #c8e6c9;
-  border-radius: 8px;
-  color: #256029;
-  font-weight: 600;
-  text-align: center;
+  display:none;
+  margin-top:1.4rem;
+  padding:1rem 1.3rem;
+  background:#e8f5e9;
+  border:1px solid #c8e6c9;
+  border-radius:8px;
+  color:#256029;
+  font-weight:600;
+  text-align:center;
 }
 </style>
 
@@ -102,19 +111,16 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
 
 <form class="reg-form" id="registration-form">
 
-  <label>Full Name *
-    <input type="text" name="entry.1673288629" required>
-  </label>
+  <label class="section-title">Full Name *</label>
+  <input type="text" name="entry.1673288629" required>
 
-  <label>Email Address *
-    <input type="email" name="entry.1726498577" required>
-  </label>
+  <label class="section-title">Email Address *</label>
+  <input type="email" name="entry.1726498577" required>
 
-  <label>University / Institution *
-    <input type="text" name="entry.2110780877" required>
-  </label>
+  <label class="section-title">University / Institution *</label>
+  <input type="text" name="entry.2110780877" required>
 
-  <label>Dietary / Food Preferences *</label>
+  <label class="section-title">Dietary / Food Preferences *</label>
   <div class="radio-group">
     <label><input type="radio" name="entry.408319094" value="No restrictions" required> No restrictions</label>
     <label><input type="radio" name="entry.408319094" value="Vegetarian"> Vegetarian</label>
@@ -123,11 +129,10 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
     <label><input type="radio" name="entry.408319094" value="Other"> Other</label>
   </div>
 
-  <label>Research Area
-    <input type="text" name="entry.859023005">
-  </label>
+  <label class="section-title">Research Area</label>
+  <input type="text" name="entry.859023005">
 
-  <label>Attendance *</label>
+  <label class="section-title">Attendance *</label>
   <div class="radio-group">
     <label><input type="radio" name="entry.401581971" value="Day 1" required> Day 1</label>
     <label><input type="radio" name="entry.401581971" value="Day 2"> Day 2</label>
@@ -139,7 +144,6 @@ Please complete the form below to register for the **DEMOCritus Workshop**.
   </button>
 
 </form>
-
 
 <div id="reg-success">
   ✅ Thank you! Your registration has been successfully received.
