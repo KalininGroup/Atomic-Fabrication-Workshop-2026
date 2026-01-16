@@ -41,9 +41,6 @@ menu_icon: clock
     <td>7:30 AM</td><td>8:30 AM</td>
     <td colspan="6">
       <strong>Registration and Beakfast</strong>
-      <br>name : blue means accepted not registered
-      <br>red means not invited or accepted
-      <br>green means accepted and registered
     </td>
   </tr>
 
