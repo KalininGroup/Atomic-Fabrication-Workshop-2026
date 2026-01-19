@@ -273,7 +273,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 9:00 AM – 9:20 AM</td>
-    <td colspan="4" class="blue">Gregory David Fuchs: Quantum sensing and quantum magnonics using diamond spins and vanadium tetracyanoethylene</td>
+    <td colspan="4" class="blue">Gregory David Fuchs: Quantum sensing and quantum magnonics using diamond<br> spins and vanadium tetracyanoethylene</td>
   </tr>
 
   <tr>
@@ -319,12 +319,12 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 5: 11:40 AM – 12:00 PM</td>
-    <td colspan="4" class="blue">Chair Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems via Molecular Self-assembly</td>
+    <td colspan="4" class="blue">Chair Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems<br> via Molecular Self-assembly</td>
   </tr>
 
   <tr class="lightblue">
     <td>12:10 PM</td><td>1:00 PM</td>
-    <td colspan="6"><strong>Lunch/</strong> Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+    <td colspan="6"><strong>Lunch/</strong> Paul Weiss: </td>
   </tr>
 
   <!-- Breakout Sessions (Day 2) -->
