@@ -16,8 +16,17 @@ menu_icon: clock
     vertical-align: middle;
   }
 
+  /* ADD THESE TWO LINES HERE */
+  .agenda-grid td {
+    white-space: nowrap;
+  }
+
+  .agenda-grid tr {
+    height: 48px;
+  }
+
   .dayhdr { background:#eee; font-weight:bold; }
-  .purple { background:#9b00ff; color:#fff; font-weight:bold; text-align:center; }
+  .purple { background:#9b00ff; color:#000; font-weight:bold; text-align:center; }
   .cyan { background:#00f0f0; font-weight:bold; }
   .lightblue { background:#d6e4ff; }
   .yellow { background:#f6e9b6; }
@@ -25,9 +34,12 @@ menu_icon: clock
 
   .center { text-align:center; }
 
-  .green { color: green; font-weight: 700; }
+  /* .green { color: green; font-weight: 700; }
   .blue  { color: blue;  font-weight: 700; }
-  .red   { color: red;   font-weight: 700; }
+  .red   { color: red;   font-weight: 700; } */
+  .green { color: #000; font-weight: 700; }
+  .blue  { color: #000; font-weight: 700; }
+  .red   { color: #000; font-weight: 700; }
 </style>
 
 <table class="agenda-grid">
@@ -101,15 +113,14 @@ menu_icon: clock
     <td colspan="4" class="blue">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
   </tr>
 
-  <tr>
-    <td>12:00 PM</td><td>1:00 PM</td>
-    <td colspan="6"><strong>Lunch</strong> — Paul Weiss</td>
+  <tr class="cyan">
+      <td>12:00 PM</td><td>1:00 PM</td>
+      <td colspan="6"><strong>Lunch</strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
-  <tr>
-    <td></td>
-    <td colspan="7" class="purple">Breakout Sessions</td>
+  <tr class="purple">
+    <td colspan="8"><strong>Breakout Sessions</strong></td>
   </tr>
 
   <tr class="center softgray">
