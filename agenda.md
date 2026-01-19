@@ -22,10 +22,11 @@ menu_icon: clock
 
   /* Allow long titles to wrap correctly */
   .agenda-grid td {
-    overflow-wrap: break-word;
-    word-break: break-word;
     white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
   }
+
 
   /* Keep time columns on one line */
   .agenda-grid td:nth-child(1),
