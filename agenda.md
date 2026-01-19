@@ -104,12 +104,12 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 9:00 AM – 9:30 AM</td>
-    <td colspan="4">David Awschalom: Emerging opportunities with quantum-engineered semiconductors and molecules</td>
+    <td colspan="6">David Awschalom: Emerging opportunities with quantum-engineered semiconductors and molecules</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 9:30 AM – 10:00 AM</td>
-    <td colspan="4">Susanne Stemmer: Topological materials for quantum information systems</td>
+    <td colspan="6">Susanne Stemmer: Topological materials for quantum information systems</td>
   </tr>
 
   <tr class="softgray">
@@ -126,17 +126,17 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 10:30 AM – 11:00 AM</td>
-    <td colspan="4">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum Information Science</td>
+    <td colspan="6">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum Information Science</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 11:00 AM – 11:30 AM</td>
-    <td colspan="4">John Randall: Atomic Scale Fabrication - a Top-Down Digital Approach</td>
+    <td colspan="6">John Randall: Atomic Scale Fabrication - a Top-Down Digital Approach</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 5: 11:30 AM – 12:00 PM</td>
-    <td colspan="4">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
+    <td colspan="6">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
   </tr>
 
   <tr class="lightblue">
@@ -160,8 +160,8 @@ menu_icon: clock
   <tr class="center">
     <td></td>
     <td colspan="2" class="yellow"><strong>Breakout 1:</strong> Scaffold-driven self-assembly of quantum devices</td>
-    <td colspan="2" class="lightblue"><strong>Breakout 2:</strong> Soft Quantum Matter</td>
-    <td colspan="2" class="softgray"><strong>Breakout 3:</strong> Molecular Building Blocks and Hybrid Quantum Platforms</td>
+    <td colspan="2" class="softgray"><strong>Breakout 2:</strong> Soft Quantum Matter</td>
+    <td colspan="2" class="lightblue"><strong>Breakout 3:</strong> Molecular Building Blocks and Hybrid Quantum Platforms</td>
     <td></td>
   </tr>
 
