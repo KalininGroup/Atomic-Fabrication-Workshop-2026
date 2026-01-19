@@ -12,30 +12,42 @@ menu_icon: clock
     table-layout: fixed;
   }
 
-  .agenda-grid td, .agenda-grid th {
+  .agenda-grid td,
+  .agenda-grid th {
     border: 1px solid #999;
     padding: 6px 8px;
     vertical-align: middle;
+    box-sizing: border-box;
   }
 
+  /* Allow long titles to wrap correctly */
   .agenda-grid td {
     overflow-wrap: break-word;
     word-break: break-word;
     white-space: normal;
   }
 
-  /* Prevent wrapping in time columns */
+  /* Keep time columns on one line */
   .agenda-grid td:nth-child(1),
   .agenda-grid td:nth-child(2) {
     white-space: nowrap;
   }
 
+  /* Header and row colors */
   .dayhdr { background:#eee; font-weight:bold; }
-  .purple { background:#9b00ff; color:#000; font-weight:bold; text-align:center; }
+
+  .purple { background:#9b00ff; font-weight:bold; text-align:center; color:#000; }
   .cyan { background:#00f0f0; font-weight:bold; }
   .lightblue { background:#d6e4ff; }
   .yellow { background:#f6e9b6; }
   .softgray { background:#f5f5f5; }
+
+  /* Force color onto TDs (important for table-layout:fixed) */
+  .agenda-grid tr.cyan td { background:#00f0f0; }
+  .agenda-grid tr.yellow td { background:#f6e9b6; }
+  .agenda-grid tr.lightblue td { background:#d6e4ff; }
+  .agenda-grid tr.purple td { background:#9b00ff; color:#000; }
+  .agenda-grid tr.softgray td { background:#f5f5f5; }
 
   .center { text-align:center; }
 
@@ -45,19 +57,19 @@ menu_icon: clock
   }
 </style>
 
-
 <table class="agenda-grid">
 
 <colgroup>
   <col style="width:10%">
   <col style="width:10%">
-  <col style="width:13.333%">
-  <col style="width:13.333%">
-  <col style="width:13.333%">
-  <col style="width:13.333%">
-  <col style="width:13.333%">
-  <col style="width:13.333%">
+  <col style="width:15%">
+  <col style="width:15%">
+  <col style="width:15%">
+  <col style="width:15%">
+  <col style="width:10%">
+  <col style="width:10%">
 </colgroup>
+
 
 
   <!-- ===================== DAY 1 ===================== -->
@@ -99,7 +111,7 @@ menu_icon: clock
     <td colspan="4">Susanne Stemmer: Topological materials for quantum information systems</td>
   </tr>
 
-  <tr class="cyan">
+  <tr class="softgray">
     <td>10:00 AM</td><td>10:30 AM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
@@ -160,7 +172,7 @@ menu_icon: clock
     <td></td>
   </tr>
 
-  <tr class="cyan">
+  <tr class="softgray">
     <td>2:30 PM</td><td>3:00 PM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
@@ -280,7 +292,7 @@ menu_icon: clock
     <td colspan="4" class="blue">Xiuling Li: Quantum Sensing with Spin Defects in III-Nitrides</td>
   </tr>
 
-  <tr class="cyan">
+  <tr class="softgray">
     <td>10:00 AM</td><td>10:20 AM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
@@ -356,7 +368,7 @@ menu_icon: clock
     <td></td>
   </tr>
 
-  <tr class="cyan">
+  <tr class="softgray">
     <td>2:30 PM</td><td>3:00 PM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
