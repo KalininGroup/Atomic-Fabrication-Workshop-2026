@@ -218,25 +218,21 @@ menu_icon: clock
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 1: 4:10 PM – 4:30 PM</td>
     <td colspan="4" class="green">Ulrich Wiesner: The Promise of Soft Matter enabled Quantum Devices</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 2: 4:30 PM – 4:50 PM</td>
     <td colspan="4" class="blue">Dmitri Basov?</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
     <td colspan="4" class="blue">Marija Drndic?</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 4: 5:10 PM – 5:30 PM</td>
     <td colspan="4" class="green">Peter Maurer?</td>
   </tr>
@@ -260,37 +256,32 @@ menu_icon: clock
   </tr>
 
   <tr class="yellow">
-    <td>8:20 AM</td><td>10:00 AM</td>
-    <td colspan="4"><strong>Session 4: Silicon for Quantum and Novel Semiconductor Functionalities</strong></td>
+    <td rowspan="6">8:20 AM</td><td rowspan="6">10:00 AM</td>
+    <td colspan="4"><strong>Session 5: Silicon for Quantum and Novel Semiconductor Functionalities</strong></td>
     <td class="center green" colspan="2">Chair: Robert Butera</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 1: 8:20 AM – 8:40 AM</td>
     <td colspan="4" class="blue">Shashank Misra: Why is silicon quantum computing taking so long?</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 2: 8:40 AM – 9:00 AM</td>
     <td colspan="4" class="blue">Marco Loncar: Quantum Optical Interconnects</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 3: 9:00 AM – 9:20 AM</td>
     <td colspan="4" class="blue">Gregory David Fuchs: Quantum sensing and quantum magnonics using diamond spins and vanadium tetracyanoethylene</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 4: 9:20 AM – 9:40 AM</td>
     <td colspan="4" class="blue">Manfra: ?</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 5: 9:40 AM – 10:00 AM</td>
     <td colspan="4" class="blue">Xiuling Li: Quantum Sensing with Spin Defects in III-Nitrides</td>
   </tr>
@@ -301,44 +292,39 @@ menu_icon: clock
   </tr>
 
   <tr class="yellow">
-    <td>10:20 AM</td><td>12:00 PM</td>
-    <td colspan="4"><strong>Session 5: Molecules and AI assisted synthesis</strong></td>
+    <td rowspan="6">10:20 AM</td><td rowspan="6">12:00 PM</td>
+    <td colspan="4"><strong>Session 6: Molecules and AI assisted synthesis</strong></td>
     <td class="center green" colspan="2">Chair: TBD</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 1: 10:20 AM – 10:40 AM</td>
     <td colspan="4" class="blue">Danna Freedman: Molecular Color Centers</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
     <td colspan="4" class="blue">Aram Amassian, TBA</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 3: 11:00 AM – 11:20 AM</td>
     <td colspan="4" class="blue">Masha Kamenetska: Quantum Properties of Molecular Circuits</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 4: 11:20 AM – 11:40 AM</td>
     <td colspan="4" class="blue">Justin Caram, TBA</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 5: 11:40 AM – 12:00 PM</td>
     <td colspan="4" class="blue">Chair Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems via Molecular Self-assembly</td>
   </tr>
 
-  <tr>
+  <tr class="lightblue">
     <td>12:10 PM</td><td>1:00 PM</td>
-    <td colspan="6"><strong>Lunch</strong> — Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+    <td colspan="6"><strong>Lunch/</strong> Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 2) -->
@@ -357,9 +343,9 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2" class="yellow">Breakout 1: From direct Beam and Probe</br> Fabrication into semiconductor pipelines</td>
-    <td colspan="2" class="lightgreen">Breakout 2: AI for Molecular Discovery and</br> Automated Synthesis</td>
-    <td colspan="2" class="lightblue">Breakout 3: Photonic Sensing and</br> Integration</td>
+    <td colspan="2" class="yellow">Breakout 1: From direct Beam and Probe<br> Fabrication into semiconductor pipelines</td>
+    <td colspan="2" class="lightgreen">Breakout 2: AI for Molecular Discovery and<br> Automated Synthesis</td>
+    <td colspan="2" class="lightblue">Breakout 3: Photonic Sensing and<br> Integration</td>
     <td></td>
   </tr>
 
@@ -371,31 +357,28 @@ menu_icon: clock
     <td></td>
   </tr>
 
-  <tr class="softgray">
+  <tr class="lightblue">
     <td>2:30 PM</td><td>3:00 PM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
 
   <tr class="yellow">
-    <td>3:00 PM</td><td>4:00 PM</td>
+    <td rowspan="4">3:00 PM</td><td rowspan="4">4:00 PM</td>
     <td colspan="4"><strong>Session 6: Local Probing, Direct Atomic Fabrication Methods, and Integration into Classical Device Pipelines</strong></td>
     <td class="center green" colspan="2">Chair: Greg Fuchs</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 1: 3:00 PM – 3:20 PM</td>
     <td colspan="4" class="blue">Michael Flatte, TBA</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 2: 3:20 PM – 3:40 PM</td>
     <td colspan="4" class="blue">Adina Lucan-Maier: Quantum functionality of nanoscale-controlled 2D materials</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
     <td colspan="2">Speaker 3: 3:40 PM – 4:00 PM</td>
     <td colspan="4" class="blue">R. Wolkow, TBA</td>
   </tr>
