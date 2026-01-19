@@ -10,19 +10,17 @@ menu_icon: clock
     border-collapse: collapse;
     font-size: 14px;
   }
+
   .agenda-grid td, .agenda-grid th {
     border: 1px solid #999;
     padding: 6px 8px;
     vertical-align: middle;
   }
 
-  /* ADD THESE TWO LINES HERE */
-  .agenda-grid td {
+  /* ADD THIS HERE */
+  .agenda-grid td:nth-child(1),
+  .agenda-grid td:nth-child(2) {
     white-space: nowrap;
-  }
-
-  .agenda-grid tr {
-    height: 48px;
   }
 
   .dayhdr { background:#eee; font-weight:bold; }
@@ -34,13 +32,11 @@ menu_icon: clock
 
   .center { text-align:center; }
 
-  /* .green { color: green; font-weight: 700; }
-  .blue  { color: blue;  font-weight: 700; }
-  .red   { color: red;   font-weight: 700; } */
   .green { color: #000; font-weight: 700; }
   .blue  { color: #000; font-weight: 700; }
   .red   { color: #000; font-weight: 700; }
 </style>
+
 
 <table class="agenda-grid">
 
