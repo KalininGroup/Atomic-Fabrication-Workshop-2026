@@ -9,6 +9,7 @@ menu_icon: clock
     width: 100%;
     border-collapse: collapse;
     font-size: 14px;
+    table-layout: fixed;
   }
 
   .agenda-grid td, .agenda-grid th {
@@ -17,7 +18,7 @@ menu_icon: clock
     vertical-align: middle;
   }
 
-  /* ADD THIS HERE */
+  /* Prevent wrapping in time columns */
   .agenda-grid td:nth-child(1),
   .agenda-grid td:nth-child(2) {
     white-space: nowrap;
@@ -32,13 +33,26 @@ menu_icon: clock
 
   .center { text-align:center; }
 
-  .green { color: #000; font-weight: 700; }
-  .blue  { color: #000; font-weight: 700; }
-  .red   { color: #000; font-weight: 700; }
+  .green, .blue, .red {
+    color:#000;
+    font-weight:700;
+  }
 </style>
 
 
 <table class="agenda-grid">
+
+<colgroup>
+  <col style="width:10%">
+  <col style="width:10%">
+  <col style="width:13.333%">
+  <col style="width:13.333%">
+  <col style="width:13.333%">
+  <col style="width:13.333%">
+  <col style="width:13.333%">
+  <col style="width:13.333%">
+</colgroup>
+
 
   <!-- ===================== DAY 1 ===================== -->
   <tr class="dayhdr">
@@ -111,7 +125,7 @@ menu_icon: clock
 
   <tr class="cyan">
       <td>12:00 PM</td><td>1:00 PM</td>
-      <td colspan="6"><strong>Lunch</strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+      <td colspan="6"><strong>Lunch: </strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
