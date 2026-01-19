@@ -186,38 +186,33 @@ menu_icon: clock
   </tr>
 
   <tr class="yellow">
-    <td>3:00 PM</td><td>4:00 PM</td>
+    <td rowspan="5">3:00 PM</td><td rowspan="5">4:00 PM</td>
     <td colspan="4"><strong>Session 3: Industry and National Labs</strong></td>
     <td class="center green" colspan="2">Chair: Jeremy Levy</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
-    <td colspan="2">Speaker 1: 4:00 PM – 4:15 PM</td>
-    <td colspan="2" class="blue">David Menasche, Google, TBD</td>
+    <td colspan="2">Speaker 1: 3:00 PM – 3:15 PM</td>
+    <td colspan="4">David Menasche, Google, TBD</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
-    <td colspan="2">Speaker 2: 4:15 PM – 4:30 PM</td>
-    <td colspan="2" class="blue">John Siopsis, TBD</td>
+    <td colspan="2">Speaker 2: 3:15 PM – 3:30 PM</td>
+    <td colspan="4" class="blue">John Siopsis, TBD</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
-    <td colspan="2">Speaker 3: 4:30 PM – 4:45 PM</td>
-    <td colspan="2"><span class="blue">Vivien Zapf, LANL</span>: Quantum information and molecular magnetism</td>
+    <td colspan="2">Speaker 3: 3:30 PM – 3:45 PM</td>
+    <td colspan="4"><span class="blue">Vivien Zapf, LANL</span>: Quantum information and molecular magnetism</td>
   </tr>
 
   <tr>
-    <td></td><td></td>
-    <td colspan="2">Speaker 4: 4:45 PM – 5:00 PM</td>
-    <td colspan="2" class="red">TBD</td>
-    <td colspan="2"></td>
+    <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
+    <td colspan="4" class="red">TBD</td>
   </tr>
 
   <tr class="yellow">
-    <td>4:10 PM</td><td>5:30 PM</td>
+    <td rowspan="5">4:10 PM</td><td rowspan="5">5:30 PM</td>
     <td colspan="4"><strong>Session 4: Integration between molecules and semiconductors</strong></td>
     <td class="center green" colspan="2">Chair: Vincent Meunier</td>
   </tr>
