@@ -104,12 +104,14 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 9:00 AM – 9:30 AM</td>
-    <td colspan="6">David Awschalom: Emerging opportunities with quantum-engineered semiconductors and molecules</td>
+    <td colspan="4">David Awschalom: Emerging opportunities with quantum-engineered semiconductors and molecules</td>
+    <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 9:30 AM – 10:00 AM</td>
-    <td colspan="6">Susanne Stemmer: Topological materials for quantum information systems</td>
+    <td colspan="4">Susanne Stemmer: Topological materials for quantum information systems</td>
+    <td colspan="2"></td>
   </tr>
 
   <tr class="softgray">
@@ -126,22 +128,25 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 10:30 AM – 11:00 AM</td>
-    <td colspan="6">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum Information Science</td>
+    <td colspan="4">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum Information Science</td>
+    <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 11:00 AM – 11:30 AM</td>
-    <td colspan="6">John Randall: Atomic Scale Fabrication - a Top-Down Digital Approach</td>
+    <td colspan="4">John Randall: Atomic Scale Fabrication - a Top-Down Digital Approach</td>
+    <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 5: 11:30 AM – 12:00 PM</td>
-    <td colspan="6">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
+    <td colspan="4">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
+    <td colspan="2"></td>
   </tr>
 
   <tr class="lightblue">
       <td>12:00 PM</td><td>1:00 PM</td>
-      <td colspan="6"><strong>Lunch: </strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+      <td colspan="6"><strong>Lunch/ </strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
