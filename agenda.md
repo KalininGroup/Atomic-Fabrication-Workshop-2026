@@ -23,8 +23,8 @@ menu_icon: clock
   /* Allow long titles to wrap correctly */
   .agenda-grid td {
     white-space: normal;
-    overflow-wrap: anywhere;
     word-break: normal;
+    overflow-wrap: break-word;
   }
 
 
@@ -114,7 +114,7 @@ menu_icon: clock
     <td colspan="2"></td>
   </tr>
 
-  <tr class="softgray">
+  <tr class="lightblue">
     <td>10:00 AM</td><td>10:30 AM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
@@ -178,7 +178,7 @@ menu_icon: clock
     <td></td>
   </tr>
 
-  <tr class="softgray">
+  <tr class="lightblue">
     <td>2:30 PM</td><td>3:00 PM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
@@ -298,7 +298,7 @@ menu_icon: clock
     <td colspan="4" class="blue">Xiuling Li: Quantum Sensing with Spin Defects in III-Nitrides</td>
   </tr>
 
-  <tr class="softgray">
+  <tr class="lightblue">
     <td>10:00 AM</td><td>10:20 AM</td>
     <td colspan="6">Coffee Break</td>
   </tr>
