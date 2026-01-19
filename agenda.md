@@ -104,7 +104,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 9:00 AM – 9:30 AM</td>
-    <td colspan="4">David Awschalom: Emerging opportunities with quantum-engineered semiconductors and molecules</td>
+    <td colspan="4">David Awschalom: Emerging opportunities with quantum-engineered semiconductors<br> and molecules</td>
     <td colspan="2"></td>
   </tr>
 
@@ -128,7 +128,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 10:30 AM – 11:00 AM</td>
-    <td colspan="4">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum Information Science</td>
+    <td colspan="4">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum<br> Information Science</td>
     <td colspan="2"></td>
   </tr>
 
