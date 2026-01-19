@@ -364,7 +364,7 @@ menu_icon: clock
 
   <tr class="yellow">
     <td rowspan="4">3:00 PM</td><td rowspan="4">4:00 PM</td>
-    <td colspan="4"><strong>Session 6: Local Probing, Direct Atomic Fabrication Methods, and Integration into Classical Device Pipelines</strong></td>
+    <td colspan="4"><strong>Session 7: Local Probing, Direct Atomic Fabrication Methods, and Integration into Classical Device Pipelines</strong></td>
     <td class="center green" colspan="2">Chair: Greg Fuchs</td>
   </tr>
 
