@@ -78,7 +78,7 @@ menu_icon: clock
 
   <tr class="yellow">
     <td>9:00 AM</td><td>10:00 AM</td>
-    <td colspan="4"><strong>Session 1: Opening and Vision</strong></td>
+    <td colspan="4" rowspan="3"><strong>Session 1: Opening and Vision</strong></td>
     <td class="center green" colspan="2">Chair: Adina Lucan-Maier</td>
   </tr>
 
@@ -123,7 +123,7 @@ menu_icon: clock
     <td colspan="4" class="blue">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
   </tr>
 
-  <tr class="cyan">
+  <tr class="lightblue">
       <td>12:00 PM</td><td>1:00 PM</td>
       <td colspan="6"><strong>Lunch: </strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
@@ -162,10 +162,10 @@ menu_icon: clock
     <td colspan="6">Coffee Break</td>
   </tr>
 
-  <tr>
+  <tr class="yellow">
     <td>3:00 PM</td><td>4:00 PM</td>
     <td colspan="4"><strong>Session 3: Industry and National Labs</strong></td>
-    <td class="center green" rowspan="4" colspan="2">Chair: Jeremy Levy</td>
+    <td class="center green" colspan="2">Chair: Jeremy Levy</td>
   </tr>
 
   <tr>
@@ -193,40 +193,39 @@ menu_icon: clock
     <td colspan="2"></td>
   </tr>
 
-  <tr class="lightblue">
+  <tr class="yellow">
     <td>4:10 PM</td><td>5:30 PM</td>
     <td colspan="4"><strong>Session 4: Integration between molecules and semiconductors</strong></td>
-    <td class="center green" rowspan="4" colspan="2">Chair: Vincent Meunier</td>
-  </tr>
-
-  <tr class="lightblue">
-    <td></td><td></td>
-    <td colspan="2">Speaker 1: 4:10 PM – 4:30 PM</td>
-    <td colspan="2" class="green">Ulrich Wiesner: The Promise of Soft Matter enabled Quantum Devices</td>
-  </tr>
-
-  <tr class="lightblue">
-    <td></td><td></td>
-    <td colspan="2">Speaker 2: 4:30 PM – 4:50 PM</td>
-    <td colspan="2" class="blue">Dmitri Basov?</td>
-  </tr>
-
-  <tr class="lightblue">
-    <td></td><td></td>
-    <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
-    <td colspan="2" class="blue">Marija Drndic?</td>
-  </tr>
-
-  <tr class="lightblue">
-    <td></td><td></td>
-    <td colspan="2">Speaker 4: 5:10 PM – 5:30 PM</td>
-    <td colspan="2" class="green">Peter Maurer?</td>
-    <td colspan="2"></td>
+    <td class="center green" colspan="2">Chair: Vincent Meunier</td>
   </tr>
 
   <tr>
+    <td></td><td></td>
+    <td colspan="2">Speaker 1: 4:10 PM – 4:30 PM</td>
+    <td colspan="4" class="green">Ulrich Wiesner: The Promise of Soft Matter enabled Quantum Devices</td>
+  </tr>
+
+  <tr>
+    <td></td><td></td>
+    <td colspan="2">Speaker 2: 4:30 PM – 4:50 PM</td>
+    <td colspan="4" class="blue">Dmitri Basov?</td>
+  </tr>
+
+  <tr>
+    <td></td><td></td>
+    <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
+    <td colspan="4" class="blue">Marija Drndic?</td>
+  </tr>
+
+  <tr>
+    <td></td><td></td>
+    <td colspan="2">Speaker 4: 5:10 PM – 5:30 PM</td>
+    <td colspan="4" class="green">Peter Maurer?</td>
+  </tr>
+
+  <tr class = "lightblue">
     <td>6:00 PM</td><td>8:00 PM</td>
-    <td colspan="6"><strong>Dinner/Dinner Keynote</strong> — Rahul Sarpeshkar: Analog and Probabilistic Computers: From Quantum Atom To Living Body</td>
+    <td colspan="6"><strong>Dinner/Dinner Keynote: </strong>Rahul Sarpeshkar: Analog and Probabilistic Computers: From Quantum Atom To Living Body</td>
   </tr>
 
   <!-- spacer -->
