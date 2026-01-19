@@ -42,6 +42,7 @@ menu_icon: clock
   .lightblue { background:#d6e4ff; }
   .yellow { background:#f6e9b6; }
   .softgray { background:#f5f5f5; }
+  .lightgreen { background:#dff3df; }
 
   /* Force color onto TDs (important for table-layout:fixed) */
   .agenda-grid tr.cyan td { background:#00f0f0; }
@@ -49,6 +50,7 @@ menu_icon: clock
   .agenda-grid tr.lightblue td { background:#d6e4ff; }
   .agenda-grid tr.purple td { background:#9b00ff; color:#000; }
   .agenda-grid tr.softgray td { background:#f5f5f5; }
+  .agenda-grid tr.lightgreen td { background:#dff3df; }
 
   .center { text-align:center; }
 
@@ -164,8 +166,8 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2" class="yellow"><strong>Breakout 1:</strong> Scaffold-driven self-assembly of quantum devices</td>
-    <td colspan="2" class="softgray"><strong>Breakout 2:</strong> Soft Quantum Matter</td>
+    <td colspan="2" class="yellow"><strong>Breakout 1:</strong> Scaffold-driven self-assembly<br> of quantum devices</td>
+    <td colspan="2" class="lightgreen"><strong>Breakout 2:</strong> Soft Quantum Matter</td>
     <td colspan="2" class="lightblue"><strong>Breakout 3:</strong> Molecular Building Blocks and Hybrid Quantum Platforms</td>
     <td></td>
   </tr>
@@ -360,9 +362,9 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2" class="yellow">Breakout 1: From direct Beam and Probe Fabrication into semiconductor pipelines</td>
-    <td colspan="2" class="lightblue">Breakout 2: AI for Molecular Discovery and Automated Synthesis</td>
-    <td colspan="2" class="softgray">Breakout 3: Photonic Sensing and Integration</td>
+    <td colspan="2" class="yellow">Breakout 1: From direct Beam and Probe</br> Fabrication into semiconductor pipelines</td>
+    <td colspan="2" class="lightgreen">Breakout 2: AI for Molecular Discovery and</br> Automated Synthesis</td>
+    <td colspan="2" class="lightblue">Breakout 3: Photonic Sensing and</br> Integration</td>
     <td></td>
   </tr>
 
