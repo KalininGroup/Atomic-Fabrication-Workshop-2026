@@ -77,8 +77,8 @@ menu_icon: clock
   </tr>
 
   <tr class="yellow">
-    <td>9:00 AM</td><td>10:00 AM</td>
-    <td colspan="4" rowspan="3"><strong>Session 1: Opening and Vision</strong></td>
+    <td rowspan="3">9:00 AM</td><td rowspan="3"> 10:00 AM</td>
+    <td colspan="4"><strong>Session 1: Opening and Vision</strong></td>
     <td class="center green" colspan="2">Chair: Adina Lucan-Maier</td>
   </tr>
 
