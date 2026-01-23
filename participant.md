@@ -313,7 +313,7 @@ menu_icon: people
 </div>
 
 <div class="affiliation-card">
-<h3>Other</h3>
+<h3>University of Washington</h3>
 <div class="person"><div class="avatar">CM</div><div class="person-name">Charles Marcus</div></div>
 </div>
 
