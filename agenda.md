@@ -352,7 +352,7 @@ menu_icon: clock
   <tr class="center">
     <td></td>
     <td colspan="2" class="green">Chair: R. Wolkow and S. Spurgeon</td>
-    <td colspan="2" class="green">Chair: Danna Freedman</td>
+    <td colspan="2" class="green">Chair: Aram Amassian</td>
     <td colspan="2" class="green">Chair: Dmitri Basov</td>
     <td></td>
   </tr>
