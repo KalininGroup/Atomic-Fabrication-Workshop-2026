@@ -54,7 +54,10 @@ menu_icon: people
 
 <div class="participants-grid">
 
-<!-- ================= NSF (largest group) ================= -->
+  
+  <div class="participants-grid">
+
+<!-- ================= National Science Foundation (10) ================= -->
 <div class="affiliation-card">
 <h3>National Science Foundation</h3>
 <div class="person"><div class="avatar">CF</div><div class="person-name">Colby A. Foss, Jr.</div></div>
@@ -69,7 +72,7 @@ menu_icon: people
 <div class="person"><div class="avatar">KC</div><div class="person-name">Khershed Cooper</div></div>
 </div>
 
-<!-- ================= DOE ================= -->
+<!-- ================= U.S. Department of Energy (9) ================= -->
 <div class="affiliation-card">
 <h3>U.S. Department of Energy</h3>
 <div class="person"><div class="avatar">TK</div><div class="person-name">Tina Kaarsberg</div></div>
@@ -83,108 +86,126 @@ menu_icon: people
 <div class="person"><div class="avatar">AR</div><div class="person-name">Ali Ramazani</div></div>
 </div>
 
-<!-- ================= National Labs ================= -->
+<!-- ================= DARPA / DoD / Military (6) ================= -->
 <div class="affiliation-card">
-<h3>National Renewable Energy Laboratory</h3>
-<div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon</div></div>
-<div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Sandia National Laboratories</h3>
-<div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Los Alamos National Laboratory</h3>
-<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Oak Ridge National Laboratory</h3>
-<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Argonne National Laboratory</h3>
-<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose</div></div>
-</div>
-
-<!-- ================= DARPA / DoD ================= -->
-<div class="affiliation-card">
-<h3>DARPA</h3>
+<h3>DARPA &amp; U.S. DoD</h3>
 <div class="person"><div class="avatar">SB</div><div class="person-name">Sunil Bhave</div></div>
 <div class="person"><div class="avatar">CW</div><div class="person-name">Clement Wong</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>U.S. Air Force</h3>
 <div class="person"><div class="avatar">AS</div><div class="person-name">Ali Sayir</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>U.S. Army</h3>
 <div class="person"><div class="avatar">ER</div><div class="person-name">Evan L. Runnerstrom</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>U.S. Navy</h3>
 <div class="person"><div class="avatar">AM</div><div class="person-name">Antti J. Makinen</div></div>
 <div class="person"><div class="avatar">BS</div><div class="person-name">Blake Simpkins</div></div>
 </div>
 
-<!-- ================= Universities ================= -->
+<!-- ================= National Laboratories (6) ================= -->
 <div class="affiliation-card">
-<h3>Cornell University</h3>
-<div class="person"><div class="avatar">UW</div><div class="person-name">Ulrich Wiesner</div></div>
-<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fuchs</div></div>
-<div class="person"><div class="avatar">YB</div><div class="person-name">Eunice Bae</div></div>
+<h3>National Laboratories</h3>
+<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose (ANL)</div></div>
+<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie (ORNL)</div></div>
+<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf (LANL)</div></div>
+<div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon (NREL)</div></div>
+<div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard (NREL)</div></div>
+<div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra (Sandia)</div></div>
 </div>
 
+<!-- ================= Universities (48) ================= -->
 <div class="affiliation-card">
-<h3>University of Chicago</h3>
-<div class="person"><div class="avatar">DA</div><div class="person-name">David Awschalom</div></div>
-<div class="person"><div class="avatar">PM</div><div class="person-name">Peter Maurer</div></div>
+<h3>Universities</h3>
+
+<div class="person">Ulrich Wiesner (Cornell University)</div>
+<div class="person">Gregory Fuchs (Cornell University)</div>
+<div class="person">Eunice Bae (Cornell University)</div>
+
+<div class="person">David Awschalom (University of Chicago)</div>
+<div class="person">Peter Maurer (University of Chicago)</div>
+
+<div class="person">Michael R. Wasielewski (Northwestern University)</div>
+<div class="person">Nathaniel Stern (Northwestern University)</div>
+
+<div class="person">Grigory Tikhomirov (University of California, Berkeley)</div>
+<div class="person">Ashok Ajoy (University of California, Berkeley)</div>
+
+<div class="person">Paul Weiss (University of California, Los Angeles)</div>
+<div class="person">Justin Caram (University of California, Los Angeles)</div>
+
+<div class="person">Susanne Stemmer (University of California, Santa Barbara)</div>
+
+<div class="person">Marko Lončar (Harvard University)</div>
+<div class="person">Danna Freedman (Massachusetts Institute of Technology)</div>
+
+<div class="person">Oleg Gang (Columbia University)</div>
+<div class="person">Dmitri Basov (Columbia University)</div>
+
+<div class="person">Masha Kamenetska (Boston University)</div>
+<div class="person">Petro Maksymovych (Clemson University)</div>
+
+<div class="person">Yves Idzerda (Montana State University)</div>
+
+<div class="person">Richard Silver (National Institute of Standards and Technology)</div>
+
+<div class="person">Vincent Meunier (Pennsylvania State University)</div>
+<div class="person">Venkatraman Gopalan (Pennsylvania State University)</div>
+
+<div class="person">Qian Chen (University of Illinois Urbana-Champaign)</div>
+<div class="person">Aleksei Aksimentiev (University of Illinois Urbana-Champaign)</div>
+
+<div class="person">Michael E. Flatté (University of Iowa)</div>
+<div class="person">Robert Butera (University of Maryland)</div>
+<div class="person">Pramod Reddy (University of Michigan)</div>
+
+<div class="person">Michael Manfra (Purdue University)</div>
+<div class="person">Jianguo Mei (Purdue University)</div>
+
+<div class="person">Jeremy Levy (University of Pittsburgh)</div>
+
+<div class="person">Allan Tennant (University of Tennessee)</div>
+<div class="person">Richard Liu (University of Tennessee)</div>
+
+<div class="person">Xiuling Li (University of Texas at Austin)</div>
+
+<div class="person">Wei You (University of North Carolina at Chapel Hill)</div>
+<div class="person">Wei Zhang (University of North Carolina at Chapel Hill)</div>
+
+<div class="person">Adina Luican-Mayer (University of Illinois Chicago)</div>
+<div class="person">Tomoyasu Mani (University of Connecticut)</div>
+
+<div class="person">Ezekiel Johnston-Halperin (The Ohio State University)</div>
+<div class="person">Saw Wai Hla (Ohio University)</div>
+
+<div class="person">Geoffroy Hautier (Rice University)</div>
+
+<div class="person">Aram Amassian (North Carolina State University)</div>
+<div class="person">Dali Sun (North Carolina State University)</div>
+
+<div class="person">Rahul Sarpeshkar (Dartmouth College)</div>
+
+<div class="person">Christian Binek (University of Nebraska–Lincoln)</div>
+<div class="person">Charles Marcus (University of Washington)</div>
+<div class="person">Robert Wolkow (University of Alberta)</div>
+
+<div class="person">Bryan W. Boudouris (University of Alabama)</div>
+
 </div>
 
-<div class="affiliation-card">
-<h3>University of California, Berkeley</h3>
-<div class="person"><div class="avatar">GT</div><div class="person-name">Grigory Tikhomirov</div></div>
-<div class="person"><div class="avatar">AA</div><div class="person-name">Ashok Ajoy</div></div>
-</div>
 
+<!-- ================= Industry / Startups / Independent (11) ================= -->
 <div class="affiliation-card">
-<h3>University of California, Los Angeles</h3>
-<div class="person"><div class="avatar">PW</div><div class="person-name">Paul Weiss</div></div>
-<div class="person"><div class="avatar">JC</div><div class="person-name">Justin Caram</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of California, Santa Barbara</h3>
-<div class="person"><div class="avatar">SS</div><div class="person-name">Susanne Stemmer</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Northwestern University</h3>
-<div class="person"><div class="avatar">MW</div><div class="person-name">Michael R. Wasielewski</div></div>
-<div class="person"><div class="avatar">NS</div><div class="person-name">Nathaniel Stern</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Zyvex Labs</h3>
-<div class="person"><div class="avatar">JR</div><div class="person-name">John N. Randall</div></div>
-<div class="person"><div class="avatar">JO</div><div class="person-name">James H. G. Owen</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Industry &amp; Startups</h3>
-<div class="person"><div class="avatar">CH</div><div class="person-name">Chad Husko</div></div>
-<div class="person"><div class="avatar">KR</div><div class="person-name">Kevin Roccapriore</div></div>
-<div class="person"><div class="avatar">SL</div><div class="person-name">Scott P. Lockledge</div></div>
-<div class="person"><div class="avatar">AR</div><div class="person-name">Alec Readel</div></div>
-<div class="person"><div class="avatar">MD</div><div class="person-name">Mathieu Durand</div></div>
-<div class="person"><div class="avatar">SD</div><div class="person-name">Steven Desmet</div></div>
-<div class="person"><div class="avatar">DV</div><div class="person-name">Dusan Vobornik</div></div>
+<h3>Industry</h3>
+<div class="person">John N. Randall (Zyvex)</div>
+<div class="person">James H. G. Owen (Zyvex)</div>
+<div class="person">David Menasche (Google)</div>
+<div class="person">Chad Husko (Iris Light)</div>
+<div class="person">Kevin Roccapriore (Atom-Q)</div>
+<div class="person">Scott P. Lockledge (TipTek)</div>
+<div class="person">Alec Readel (Applied2D)</div>
+<div class="person">Mathieu Durand (NFCBN)</div>
+<div class="person">Steven Desmet (CBN Co.)</div>
+<div class="person">Dusan Vobornik (NFCBN)</div>
 </div>
 
 </div>
+
+  
+  
+  
+  
