@@ -54,9 +54,6 @@ menu_icon: people
 
 <div class="participants-grid">
 
-  
-  <div class="participants-grid">
-
 <!-- ================= National Science Foundation (10) ================= -->
 <div class="affiliation-card">
 <h3>National Science Foundation</h3>
@@ -108,104 +105,105 @@ menu_icon: people
 <div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra (Sandia)</div></div>
 </div>
 
+
+
+
+
 <!-- ================= Universities (48) ================= -->
 <div class="affiliation-card">
 <h3>Universities</h3>
 
-<div class="person">Ulrich Wiesner (Cornell University)</div>
-<div class="person">Gregory Fuchs (Cornell University)</div>
-<div class="person">Eunice Bae (Cornell University)</div>
+<div class="person"><div class="avatar">UW</div><div class="person-name">Ulrich Wiesner<br><small>Cornell University</small></div></div>
+<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fuchs<br><small>Cornell University</small></div></div>
+<div class="person"><div class="avatar">EB</div><div class="person-name">Eunice Bae<br><small>Cornell University</small></div></div>
 
-<div class="person">David Awschalom (University of Chicago)</div>
-<div class="person">Peter Maurer (University of Chicago)</div>
+<div class="person"><div class="avatar">DA</div><div class="person-name">David Awschalom<br><small>University of Chicago</small></div></div>
+<div class="person"><div class="avatar">PM</div><div class="person-name">Peter Maurer<br><small>University of Chicago</small></div></div>
 
-<div class="person">Michael R. Wasielewski (Northwestern University)</div>
-<div class="person">Nathaniel Stern (Northwestern University)</div>
+<div class="person"><div class="avatar">MW</div><div class="person-name">Michael R. Wasielewski<br><small>Northwestern University</small></div></div>
+<div class="person"><div class="avatar">NS</div><div class="person-name">Nathaniel Stern<br><small>Northwestern University</small></div></div>
 
-<div class="person">Grigory Tikhomirov (University of California, Berkeley)</div>
-<div class="person">Ashok Ajoy (University of California, Berkeley)</div>
+<div class="person"><div class="avatar">GT</div><div class="person-name">Grigory Tikhomirov<br><small>University of California, Berkeley</small></div></div>
+<div class="person"><div class="avatar">AA</div><div class="person-name">Ashok Ajoy<br><small>University of California, Berkeley</small></div></div>
 
-<div class="person">Paul Weiss (University of California, Los Angeles)</div>
-<div class="person">Justin Caram (University of California, Los Angeles)</div>
+<div class="person"><div class="avatar">PW</div><div class="person-name">Paul Weiss<br><small>University of California, Los Angeles</small></div></div>
+<div class="person"><div class="avatar">JC</div><div class="person-name">Justin Caram<br><small>University of California, Los Angeles</small></div></div>
 
-<div class="person">Susanne Stemmer (University of California, Santa Barbara)</div>
+<div class="person"><div class="avatar">SS</div><div class="person-name">Susanne Stemmer<br><small>University of California, Santa Barbara</small></div></div>
 
-<div class="person">Marko Lončar (Harvard University)</div>
-<div class="person">Danna Freedman (Massachusetts Institute of Technology)</div>
+<div class="person"><div class="avatar">ML</div><div class="person-name">Marko Lončar<br><small>Harvard University</small></div></div>
+<div class="person"><div class="avatar">DF</div><div class="person-name">Danna Freedman<br><small>Massachusetts Institute of Technology</small></div></div>
 
-<div class="person">Oleg Gang (Columbia University)</div>
-<div class="person">Dmitri Basov (Columbia University)</div>
+<div class="person"><div class="avatar">OG</div><div class="person-name">Oleg Gang<br><small>Columbia University</small></div></div>
+<div class="person"><div class="avatar">DB</div><div class="person-name">Dmitri Basov<br><small>Columbia University</small></div></div>
 
-<div class="person">Masha Kamenetska (Boston University)</div>
-<div class="person">Petro Maksymovych (Clemson University)</div>
+<div class="person"><div class="avatar">MK</div><div class="person-name">Masha Kamenetska<br><small>Boston University</small></div></div>
+<div class="person"><div class="avatar">PM</div><div class="person-name">Petro Maksymovych<br><small>Clemson University</small></div></div>
 
-<div class="person">Yves Idzerda (Montana State University)</div>
+<div class="person"><div class="avatar">YI</div><div class="person-name">Yves Idzerda<br><small>Montana State University</small></div></div>
 
-<div class="person">Richard Silver (National Institute of Standards and Technology)</div>
+<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver<br><small>National Institute of Standards and Technology</small></div></div>
 
-<div class="person">Vincent Meunier (Pennsylvania State University)</div>
-<div class="person">Venkatraman Gopalan (Pennsylvania State University)</div>
+<div class="person"><div class="avatar">VM</div><div class="person-name">Vincent Meunier<br><small>Pennsylvania State University</small></div></div>
+<div class="person"><div class="avatar">VG</div><div class="person-name">Venkatraman Gopalan<br><small>Pennsylvania State University</small></div></div>
 
-<div class="person">Qian Chen (University of Illinois Urbana-Champaign)</div>
-<div class="person">Aleksei Aksimentiev (University of Illinois Urbana-Champaign)</div>
+<div class="person"><div class="avatar">QC</div><div class="person-name">Qian Chen<br><small>University of Illinois Urbana-Champaign</small></div></div>
+<div class="person"><div class="avatar">AA</div><div class="person-name">Aleksei Aksimentiev<br><small>University of Illinois Urbana-Champaign</small></div></div>
 
-<div class="person">Michael E. Flatté (University of Iowa)</div>
-<div class="person">Robert Butera (University of Maryland)</div>
-<div class="person">Pramod Reddy (University of Michigan)</div>
+<div class="person"><div class="avatar">MF</div><div class="person-name">Michael E. Flatté<br><small>University of Iowa</small></div></div>
+<div class="person"><div class="avatar">RB</div><div class="person-name">Robert Butera<br><small>University of Maryland</small></div></div>
+<div class="person"><div class="avatar">PR</div><div class="person-name">Pramod Reddy<br><small>University of Michigan</small></div></div>
 
-<div class="person">Michael Manfra (Purdue University)</div>
-<div class="person">Jianguo Mei (Purdue University)</div>
+<div class="person"><div class="avatar">MM</div><div class="person-name">Michael Manfra<br><small>Purdue University</small></div></div>
+<div class="person"><div class="avatar">JM</div><div class="person-name">Jianguo Mei<br><small>Purdue University</small></div></div>
 
-<div class="person">Jeremy Levy (University of Pittsburgh)</div>
+<div class="person"><div class="avatar">JL</div><div class="person-name">Jeremy Levy<br><small>University of Pittsburgh</small></div></div>
 
-<div class="person">Allan Tennant (University of Tennessee)</div>
-<div class="person">Richard Liu (University of Tennessee)</div>
+<div class="person"><div class="avatar">AT</div><div class="person-name">Allan Tennant<br><small>University of Tennessee</small></div></div>
+<div class="person"><div class="avatar">RL</div><div class="person-name">Richard Liu<br><small>University of Tennessee</small></div></div>
 
-<div class="person">Xiuling Li (University of Texas at Austin)</div>
+<div class="person"><div class="avatar">XL</div><div class="person-name">Xiuling Li<br><small>University of Texas at Austin</small></div></div>
 
-<div class="person">Wei You (University of North Carolina at Chapel Hill)</div>
-<div class="person">Wei Zhang (University of North Carolina at Chapel Hill)</div>
+<div class="person"><div class="avatar">WY</div><div class="person-name">Wei You<br><small>University of North Carolina at Chapel Hill</small></div></div>
+<div class="person"><div class="avatar">WZ</div><div class="person-name">Wei Zhang<br><small>University of North Carolina at Chapel Hill</small></div></div>
 
-<div class="person">Adina Luican-Mayer (University of Illinois Chicago)</div>
-<div class="person">Tomoyasu Mani (University of Connecticut)</div>
+<div class="person"><div class="avatar">AL</div><div class="person-name">Adina Luican-Mayer<br><small>University of Illinois Chicago</small></div></div>
+<div class="person"><div class="avatar">TM</div><div class="person-name">Tomoyasu Mani<br><small>University of Connecticut</small></div></div>
 
-<div class="person">Ezekiel Johnston-Halperin (The Ohio State University)</div>
-<div class="person">Saw Wai Hla (Ohio University)</div>
+<div class="person"><div class="avatar">EJ</div><div class="person-name">Ezekiel Johnston-Halperin<br><small>The Ohio State University</small></div></div>
+<div class="person"><div class="avatar">SH</div><div class="person-name">Saw Wai Hla<br><small>Ohio University</small></div></div>
 
-<div class="person">Geoffroy Hautier (Rice University)</div>
+<div class="person"><div class="avatar">GH</div><div class="person-name">Geoffroy Hautier<br><small>Rice University</small></div></div>
 
-<div class="person">Aram Amassian (North Carolina State University)</div>
-<div class="person">Dali Sun (North Carolina State University)</div>
+<div class="person"><div class="avatar">AA</div><div class="person-name">Aram Amassian<br><small>North Carolina State University</small></div></div>
+<div class="person"><div class="avatar">DS</div><div class="person-name">Dali Sun<br><small>North Carolina State University</small></div></div>
 
-<div class="person">Rahul Sarpeshkar (Dartmouth College)</div>
+<div class="person"><div class="avatar">RS</div><div class="person-name">Rahul Sarpeshkar<br><small>Dartmouth College</small></div></div>
 
-<div class="person">Christian Binek (University of Nebraska–Lincoln)</div>
-<div class="person">Charles Marcus (University of Washington)</div>
-<div class="person">Robert Wolkow (University of Alberta)</div>
+<div class="person"><div class="avatar">CB</div><div class="person-name">Christian Binek<br><small>University of Nebraska–Lincoln</small></div></div>
+<div class="person"><div class="avatar">CM</div><div class="person-name">Charles Marcus<br><small>University of Washington</small></div></div>
+<div class="person"><div class="avatar">RW</div><div class="person-name">Robert Wolkow<br><small>University of Alberta</small></div></div>
 
-<div class="person">Bryan W. Boudouris (University of Alabama)</div>
+<div class="person"><div class="avatar">BB</div><div class="person-name">Bryan W. Boudouris<br><small>University of Alabama</small></div></div>
 
 </div>
 
 
-<!-- ================= Industry / Startups / Independent (11) ================= -->
+
+<!-- ================= Industry / Startups / Independent (10) ================= -->
 <div class="affiliation-card">
 <h3>Industry</h3>
-<div class="person">John N. Randall (Zyvex)</div>
-<div class="person">James H. G. Owen (Zyvex)</div>
-<div class="person">David Menasche (Google)</div>
-<div class="person">Chad Husko (Iris Light)</div>
-<div class="person">Kevin Roccapriore (Atom-Q)</div>
-<div class="person">Scott P. Lockledge (TipTek)</div>
-<div class="person">Alec Readel (Applied2D)</div>
-<div class="person">Mathieu Durand (NFCBN)</div>
-<div class="person">Steven Desmet (CBN Co.)</div>
-<div class="person">Dusan Vobornik (NFCBN)</div>
-</div>
+
+<div class="person"><div class="avatar">JR</div><div class="person-name">John N. Randall<br><small>Zyvex</small></div></div>
+<div class="person"><div class="avatar">JO</div><div class="person-name">James H. G. Owen<br><small>Zyvex</small></div></div>
+<div class="person"><div class="avatar">DM</div><div class="person-name">David Menasche<br><small>Google</small></div></div>
+<div class="person"><div class="avatar">CH</div><div class="person-name">Chad Husko<br><small>Iris Light</small></div></div>
+<div class="person"><div class="avatar">KR</div><div class="person-name">Kevin Roccapriore<br><small>Atom-Q</small></div></div>
+<div class="person"><div class="avatar">SL</div><div class="person-name">Scott P. Lockledge<br><small>TipTek</small></div></div>
+<div class="person"><div class="avatar">AR</div><div class="person-name">Alec Readel<br><small>Applied2D</small></div></div>
+<div class="person"><div class="avatar">MD</div><div class="person-name">Mathieu Durand<br><small>NFCBN</small></div></div>
+<div class="person"><div class="avatar">SD</div><div class="person-name">Steven Desmet<br><small>CBN Co.</small></div></div>
+<div class="person"><div class="avatar">DV</div><div class="person-name">Dusan Vobornik<br><small>NFCBN</small></div></div>
 
 </div>
 
-  
-  
-  
-  
