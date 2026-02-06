@@ -54,136 +54,40 @@ menu_icon: people
 
 <div class="participants-grid">
 
-<div class="affiliation-card">
-<h3>Argonne National Laboratory</h3>
-<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Boston University</h3>
-<div class="person"><div class="avatar">MK</div><div class="person-name">Maria Kamenetska</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Clemson University</h3>
-<div class="person"><div class="avatar">PM</div><div class="person-name">Peter Maksymovych</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Columbia University</h3>
-<div class="person"><div class="avatar">OG</div><div class="person-name">Oleg Gang</div></div>
-<div class="person"><div class="avatar">DB</div><div class="person-name">Dmitri Basov</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Cornell University</h3>
-<div class="person"><div class="avatar">UW</div><div class="person-name">Ulrich Wiesner</div></div>
-<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory David Fuchs</div></div>
-<div class="person"><div class="avatar">YB</div><div class="person-name">Yun Jue Bae</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>DARPA (Defense Advanced Research Projects Agency)</h3>
-<div class="person"><div class="avatar">SB</div><div class="person-name">Sunil Bhave</div></div>
-<div class="person"><div class="avatar">CW</div><div class="person-name">Clement Wong</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Dartmouth College</h3>
-<div class="person"><div class="avatar">RS</div><div class="person-name">Rahul Sarpeshkar</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Georgia Institute of Technology</h3>
-<div class="person"><div class="avatar">JA</div><div class="person-name">Jason D. Azoulay</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Google</h3>
-<div class="person"><div class="avatar">DM</div><div class="person-name">David Menasche</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Harvard University</h3>
-<div class="person"><div class="avatar">ML</div><div class="person-name">Marko Lončar</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Los Alamos National Laboratory</h3>
-<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Massachusetts Institute of Technology</h3>
-<div class="person"><div class="avatar">DF</div><div class="person-name">Danna Freedman</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Montana State University</h3>
-<div class="person"><div class="avatar">YI</div><div class="person-name">Yves Idzerda</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>National Institute of Standards and Technology (NIST)</h3>
-<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>National Renewable Energy Laboratory</h3>
-<div class="person"><div class="avatar">SS</div><div class="person-name">Stephen Spurgeon</div></div>
-<div class="person"><div class="avatar">MB</div><div class="person-name">Matt Beard</div></div>
-</div>
-
+<!-- ================= NSF (largest group) ================= -->
 <div class="affiliation-card">
 <h3>National Science Foundation</h3>
-<div class="person"><div class="avatar">CF</div><div class="person-name">Colby Foss</div></div>
+<div class="person"><div class="avatar">CF</div><div class="person-name">Colby A. Foss, Jr.</div></div>
 <div class="person"><div class="avatar">YK</div><div class="person-name">Yaroslav Koshka</div></div>
 <div class="person"><div class="avatar">MK</div><div class="person-name">Margaret Kim</div></div>
+<div class="person"><div class="avatar">LB</div><div class="person-name">Linkan Bian</div></div>
+<div class="person"><div class="avatar">EM</div><div class="person-name">Eric Miller</div></div>
+<div class="person"><div class="avatar">PA</div><div class="person-name">Paul Ampadu</div></div>
+<div class="person"><div class="avatar">CO</div><div class="person-name">Christopher Ober</div></div>
+<div class="person"><div class="avatar">AD</div><div class="person-name">Ananth Dodabalapur</div></div>
+<div class="person"><div class="avatar">SR</div><div class="person-name">Sohi Rastegar</div></div>
+<div class="person"><div class="avatar">KC</div><div class="person-name">Khershed Cooper</div></div>
 </div>
 
+<!-- ================= DOE ================= -->
 <div class="affiliation-card">
-<h3>North Carolina State University</h3>
-<div class="person"><div class="avatar">AA</div><div class="person-name">Aram Amassian</div></div>
-<div class="person"><div class="avatar">DS</div><div class="person-name">Dali Sun</div></div>
+<h3>U.S. Department of Energy</h3>
+<div class="person"><div class="avatar">TK</div><div class="person-name">Tina Kaarsberg</div></div>
+<div class="person"><div class="avatar">PL</div><div class="person-name">Pavel Lougovski</div></div>
+<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fiechtner</div></div>
+<div class="person"><div class="avatar">MV</div><div class="person-name">Marat Valiev</div></div>
+<div class="person"><div class="avatar">MF</div><div class="person-name">Marco Fornari</div></div>
+<div class="person"><div class="avatar">ZG</div><div class="person-name">Zachary Goff-Eldredge</div></div>
+<div class="person"><div class="avatar">CC</div><div class="person-name">Claudia Cantoni</div></div>
+<div class="person"><div class="avatar">RO</div><div class="person-name">Rima Kasia Oueid</div></div>
+<div class="person"><div class="avatar">AR</div><div class="person-name">Ali Ramazani</div></div>
 </div>
 
+<!-- ================= National Labs ================= -->
 <div class="affiliation-card">
-<h3>Northwestern University</h3>
-<div class="person"><div class="avatar">MW</div><div class="person-name">Michael R. Wasielewski</div></div>
-<div class="person"><div class="avatar">NS</div><div class="person-name">Nathaniel Stern</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Oak Ridge National Laboratory</h3>
-<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Ohio State University</h3>
-<div class="person"><div class="avatar">EJ</div><div class="person-name">Ezekiel Johnston-Halperin</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Ohio University</h3>
-<div class="person"><div class="avatar">SH</div><div class="person-name">Saw Wai Hla</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Pennsylvania State University</h3>
-<div class="person"><div class="avatar">VM</div><div class="person-name">Vincent Meunier</div></div>
-<div class="person"><div class="avatar">VG</div><div class="person-name">Venkat Gopalan</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Purdue University</h3>
-<div class="person"><div class="avatar">MM</div><div class="person-name">Michael Manfra</div></div>
-<div class="person"><div class="avatar">JM</div><div class="person-name">Jianguo Mei</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>Rice University</h3>
-<div class="person"><div class="avatar">JK</div><div class="person-name">Junichiro Kono</div></div>
-<div class="person"><div class="avatar">GH</div><div class="person-name">Geoffroy Hautier</div></div>
+<h3>National Renewable Energy Laboratory</h3>
+<div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon</div></div>
+<div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard</div></div>
 </div>
 
 <div class="affiliation-card">
@@ -192,93 +96,25 @@ menu_icon: people
 </div>
 
 <div class="affiliation-card">
-<h3>University of Alabama</h3>
-<div class="person"><div class="avatar">BB</div><div class="person-name">Bryan W. Boudouris</div></div>
+<h3>Los Alamos National Laboratory</h3>
+<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf</div></div>
 </div>
 
 <div class="affiliation-card">
-<h3>University of Alberta</h3>
-<div class="person"><div class="avatar">RW</div><div class="person-name">Robert Wolkow</div></div>
+<h3>Oak Ridge National Laboratory</h3>
+<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie</div></div>
 </div>
 
 <div class="affiliation-card">
-<h3>University of California, Berkeley</h3>
-<div class="person"><div class="avatar">GT</div><div class="person-name">Grigory Tikhomirov</div></div>
-<div class="person"><div class="avatar">AA</div><div class="person-name">Ashok Ajoy</div></div>
+<h3>Argonne National Laboratory</h3>
+<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose</div></div>
 </div>
 
+<!-- ================= DARPA / DoD ================= -->
 <div class="affiliation-card">
-<h3>University of California, Los Angeles</h3>
-<div class="person"><div class="avatar">PW</div><div class="person-name">Paul Weiss</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of California, Santa Barbara</h3>
-<div class="person"><div class="avatar">SS</div><div class="person-name">Susanne Stemmer</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Chicago</h3>
-<div class="person"><div class="avatar">DA</div><div class="person-name">David Awschalom</div></div>
-<div class="person"><div class="avatar">PM</div><div class="person-name">Peter Maurer</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Connecticut</h3>
-<div class="person"><div class="avatar">TM</div><div class="person-name">Tomoyasu Mani</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Illinois Chicago</h3>
-<div class="person"><div class="avatar">AL</div><div class="person-name">Adina Lucan-Maier</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Illinois Urbana-Champaign</h3>
-<div class="person"><div class="avatar">QC</div><div class="person-name">Quan Chen</div></div>
-<div class="person"><div class="avatar">AA</div><div class="person-name">Aleksei Aksimentiev</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Iowa</h3>
-<div class="person"><div class="avatar">MF</div><div class="person-name">Michael Flatté</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Maryland</h3>
-<div class="person"><div class="avatar">RB</div><div class="person-name">Robert Butera</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Michigan</h3>
-<div class="person"><div class="avatar">PR</div><div class="person-name">Pramod Reddy</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of North Carolina at Chapel Hill</h3>
-<div class="person"><div class="avatar">WY</div><div class="person-name">Wei You</div></div>
-<div class="person"><div class="avatar">WZ</div><div class="person-name">Wei Zhang</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Pennsylvania</h3>
-<div class="person"><div class="avatar">MD</div><div class="person-name">Marija Drndić</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Pittsburgh</h3>
-<div class="person"><div class="avatar">JL</div><div class="person-name">Jeremy Levy</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Tennessee</h3>
-<div class="person"><div class="avatar">AT</div><div class="person-name">Allan Tennant</div></div>
-<div class="person"><div class="avatar">GS</div><div class="person-name">George Siopsis</div></div>
-</div>
-
-<div class="affiliation-card">
-<h3>University of Texas at Austin</h3>
-<div class="person"><div class="avatar">XL</div><div class="person-name">Xiuling Li</div></div>
+<h3>DARPA</h3>
+<div class="person"><div class="avatar">SB</div><div class="person-name">Sunil Bhave</div></div>
+<div class="person"><div class="avatar">CW</div><div class="person-name">Clement Wong</div></div>
 </div>
 
 <div class="affiliation-card">
@@ -292,29 +128,63 @@ menu_icon: people
 </div>
 
 <div class="affiliation-card">
-<h3>U.S. Department of Energy</h3>
-<div class="person"><div class="avatar">TK</div><div class="person-name">Tina Kaarsberg</div></div>
-<div class="person"><div class="avatar">PL</div><div class="person-name">Pavel Lougovski</div></div>
-<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fiechtner</div></div>
-<div class="person"><div class="avatar">MV</div><div class="person-name">Marat Valiev</div></div>
-<div class="person"><div class="avatar">MF</div><div class="person-name">Marco Fornari</div></div>
-<div class="person"><div class="avatar">ZG</div><div class="person-name">Zach Goff-Eldredge</div></div>
-<div class="person"><div class="avatar">CC</div><div class="person-name">Claudia Cantoni</div></div>
+<h3>U.S. Navy</h3>
+<div class="person"><div class="avatar">AM</div><div class="person-name">Antti J. Makinen</div></div>
+<div class="person"><div class="avatar">BS</div><div class="person-name">Blake Simpkins</div></div>
+</div>
+
+<!-- ================= Universities ================= -->
+<div class="affiliation-card">
+<h3>Cornell University</h3>
+<div class="person"><div class="avatar">UW</div><div class="person-name">Ulrich Wiesner</div></div>
+<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fuchs</div></div>
+<div class="person"><div class="avatar">YB</div><div class="person-name">Eunice Bae</div></div>
 </div>
 
 <div class="affiliation-card">
-<h3>U.S. Navy</h3>
-<div class="person"><div class="avatar">AM</div><div class="person-name">Antti J. Makinen</div></div>
+<h3>University of Chicago</h3>
+<div class="person"><div class="avatar">DA</div><div class="person-name">David Awschalom</div></div>
+<div class="person"><div class="avatar">PM</div><div class="person-name">Peter Maurer</div></div>
+</div>
+
+<div class="affiliation-card">
+<h3>University of California, Berkeley</h3>
+<div class="person"><div class="avatar">GT</div><div class="person-name">Grigory Tikhomirov</div></div>
+<div class="person"><div class="avatar">AA</div><div class="person-name">Ashok Ajoy</div></div>
+</div>
+
+<div class="affiliation-card">
+<h3>University of California, Los Angeles</h3>
+<div class="person"><div class="avatar">PW</div><div class="person-name">Paul Weiss</div></div>
+<div class="person"><div class="avatar">JC</div><div class="person-name">Justin Caram</div></div>
+</div>
+
+<div class="affiliation-card">
+<h3>University of California, Santa Barbara</h3>
+<div class="person"><div class="avatar">SS</div><div class="person-name">Susanne Stemmer</div></div>
+</div>
+
+<div class="affiliation-card">
+<h3>Northwestern University</h3>
+<div class="person"><div class="avatar">MW</div><div class="person-name">Michael R. Wasielewski</div></div>
+<div class="person"><div class="avatar">NS</div><div class="person-name">Nathaniel Stern</div></div>
 </div>
 
 <div class="affiliation-card">
 <h3>Zyvex Labs</h3>
-<div class="person"><div class="avatar">JR</div><div class="person-name">John Randall</div></div>
+<div class="person"><div class="avatar">JR</div><div class="person-name">John N. Randall</div></div>
+<div class="person"><div class="avatar">JO</div><div class="person-name">James H. G. Owen</div></div>
 </div>
 
 <div class="affiliation-card">
-<h3>University of Washington</h3>
-<div class="person"><div class="avatar">CM</div><div class="person-name">Charles Marcus</div></div>
+<h3>Industry &amp; Startups</h3>
+<div class="person"><div class="avatar">CH</div><div class="person-name">Chad Husko</div></div>
+<div class="person"><div class="avatar">KR</div><div class="person-name">Kevin Roccapriore</div></div>
+<div class="person"><div class="avatar">SL</div><div class="person-name">Scott P. Lockledge</div></div>
+<div class="person"><div class="avatar">AR</div><div class="person-name">Alec Readel</div></div>
+<div class="person"><div class="avatar">MD</div><div class="person-name">Mathieu Durand</div></div>
+<div class="person"><div class="avatar">SD</div><div class="person-name">Steven Desmet</div></div>
+<div class="person"><div class="avatar">DV</div><div class="person-name">Dusan Vobornik</div></div>
 </div>
 
 </div>
