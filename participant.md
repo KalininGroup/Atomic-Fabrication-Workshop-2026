@@ -88,7 +88,7 @@ menu_icon: people
 <div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon (NREL)</div></div>
 <div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard (NREL)</div></div>
 <div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra (Sandia)</div></div>
-<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver<br><small>National Institute of Standards and Technology</small></div></div>
+<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver (NIST)</div></div>
 </div>
 
 
