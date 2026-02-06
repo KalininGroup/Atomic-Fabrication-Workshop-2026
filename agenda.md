@@ -89,7 +89,7 @@ menu_icon: clock
 
   <tr>
     <td>8:30 AM</td><td>8:45 AM</td>
-    <td colspan="6"><strong>Welcome and Introductions</strong> — Anthony Macijewski (DD ECCS), NSF Program Directors??</td>
+    <td colspan="6"><strong>Welcome and Introductions</strong> Anthony Macijewski (DD ECCS), NSF Program Directors</td>
   </tr>
 
   <tr>
@@ -136,7 +136,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 11:00 AM – 11:30 AM</td>
-    <td colspan="4">John Randall: Atomic Scale Fabrication - a Top-Down Digital Approach</td>
+    <td colspan="4">John Randall / James Owen: Scaling throughput of Atomically-Precise Lithography for APAM and other Quantum Devices</td>
     <td colspan="2"></td>
   </tr>
 
@@ -166,17 +166,17 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2" class="yellow"><strong>Breakout 1:</strong> Scaffold-driven self-assembly<br> of quantum devices</td>
+    <td colspan="2" class="yellow"><strong>Breakout 1:</strong> Photonic Sensing and Integration</td>
     <td colspan="2" class="lightgreen"><strong>Breakout 2:</strong> Soft Quantum Matter</td>
-    <td colspan="2" class="lightblue"><strong>Breakout 3:</strong> Molecular Building Blocks and Hybrid Quantum Platforms</td>
+    <td colspan="2" class="lightblue"><strong>Breakout 3:</strong> AI for Molecular Discovery and Automated Synthesis</td>
     <td></td>
   </tr>
 
   <tr class="center">
     <td></td>
-    <td colspan="2" class="green">Chair Greg Tikhomirov</td>
+    <td colspan="2" class="green">Chair Dmitri Basov</td>
     <td colspan="2" class="green">Chair: Ulrich Wiesner</td>
-    <td colspan="2" class="green">Chair: Marko Lončar</td>
+    <td colspan="2" class="green">Chair: Aram Amassian</td>
     <td></td>
   </tr>
 
@@ -198,7 +198,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 3:15 PM – 3:30 PM</td>
-    <td colspan="4" class="blue">John Siopsis, TBD</td>
+    <td colspan="4" class="blue">Kevin Roccapriore: Deterministic atomic engineering with electron beams at scale</td>
   </tr>
 
   <tr>
@@ -208,7 +208,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
-    <td colspan="4" class="red">TBD</td>
+    <td colspan="4" class="red">Dusan Vobornik and Mathieu Durand, TBD</td>
   </tr>
 
   <tr class="yellow">
@@ -224,17 +224,17 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 4:30 PM – 4:50 PM</td>
-    <td colspan="4" class="blue">Dmitri Basov?</td>
+    <td colspan="4" class="blue">Dmitri Basov: Hyperbolic Materials for Quantum Information Science and Technology</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
-    <td colspan="4" class="blue">Marija Drndic?</td>
+    <td colspan="4" class="blue">Marija Drndic, TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 5:10 PM – 5:30 PM</td>
-    <td colspan="4" class="green">Peter Maurer?</td>
+    <td colspan="4" class="green">Peter Maurer: From diamond to proteins qubits</td>
   </tr>
 
   <tr class = "lightblue">
@@ -278,7 +278,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 9:20 AM – 9:40 AM</td>
-    <td colspan="4" class="blue">Manfra: ?</td>
+    <td colspan="4" class="blue">Michael Manfra: TBD</td>
   </tr>
 
   <tr>
@@ -294,7 +294,7 @@ menu_icon: clock
   <tr class="yellow">
     <td rowspan="6">10:20 AM</td><td rowspan="6">12:00 PM</td>
     <td colspan="4"><strong>Session 6: Molecules and AI assisted synthesis</strong></td>
-    <td class="center green" colspan="2">Chair: TBD</td>
+    <td class="center green" colspan="2">Chair: Richard Liu</td>
   </tr>
 
   <tr>
@@ -319,7 +319,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 5: 11:40 AM – 12:00 PM</td>
-    <td colspan="4" class="blue">Chair Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems<br> via Molecular Self-assembly</td>
+    <td colspan="4" class="blue">Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems<br> via Molecular Self-assembly</td>
   </tr>
 
   <tr class="lightblue">
@@ -344,16 +344,16 @@ menu_icon: clock
   <tr class="center">
     <td></td>
     <td colspan="2" class="yellow">Breakout 1: From direct Beam and Probe<br> Fabrication into semiconductor pipelines</td>
-    <td colspan="2" class="lightgreen">Breakout 2: AI for Molecular Discovery and<br> Automated Synthesis</td>
-    <td colspan="2" class="lightblue">Breakout 3: Photonic Sensing and<br> Integration</td>
+    <td colspan="2" class="lightgreen">Breakout 2: Molecular Building Blocks<br> and Hybrid Quantum Platforms</td>
+    <td colspan="2" class="lightblue">Breakout 3: Scaffold-driven self-assembly<br> of quantum devices</td>
     <td></td>
   </tr>
 
   <tr class="center">
     <td></td>
     <td colspan="2" class="green">Chair: R. Wolkow and S. Spurgeon</td>
-    <td colspan="2" class="green">Chair: Aram Amassian</td>
-    <td colspan="2" class="green">Chair: Dmitri Basov</td>
+    <td colspan="2" class="green">Chair: Marko Lončar</td>
+    <td colspan="2" class="green">Chair: Greg Tikhomirov</td>
     <td></td>
   </tr>
 
@@ -370,7 +370,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 3:00 PM – 3:20 PM</td>
-    <td colspan="4" class="blue">Michael Flatte, TBA</td>
+    <td colspan="4" class="blue">Michael Flatte, TBD</td>
   </tr>
 
   <tr>
