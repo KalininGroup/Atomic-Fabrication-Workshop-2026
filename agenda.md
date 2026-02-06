@@ -89,12 +89,12 @@ menu_icon: clock
 
   <tr>
     <td>8:30 AM</td><td>8:45 AM</td>
-    <td colspan="6"><strong>Welcome and Introductions:</strong> Anthony Macijewski (DD ECCS), NSF Program Directors</td>
+    <td colspan="6">Welcome and Introductions: <strong>Anthony Macijewski</strong> (DD ECCS), NSF Program Directors</td>
   </tr>
 
   <tr>
     <td>8:45 AM</td><td>9:00 AM</td>
-    <td colspan="6"><strong>Workshop Overview:</strong> Sergei V. Kalinin</td>
+    <td colspan="6">Workshop Overview: <strong>Sergei V. Kalinin</strong></td>
   </tr>
 
   <tr class="yellow">
@@ -106,13 +106,13 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 9:00 AM – 9:30 AM</td>
-    <td colspan="4">David Awschalom: Emerging opportunities with quantum-engineered semiconductors<br> and molecules</td>
+    <td colspan="4"><strong>David Awschalom</strong>: Emerging opportunities with quantum-engineered semiconductors<br> and molecules</td>
     <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 9:30 AM – 10:00 AM</td>
-    <td colspan="4">Susanne Stemmer: Topological materials for quantum information systems</td>
+    <td colspan="4"><strong>Susanne Stemmer</strong>: Topological materials for quantum information systems</td>
     <td colspan="2"></td>
   </tr>
 
@@ -130,19 +130,19 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 10:30 AM – 11:00 AM</td>
-    <td colspan="4">Michael R Wasielewski: Exploiting Molecules and Molecular Materials for Quantum<br> Information Science</td>
+    <td colspan="4"><strong>Michael R Wasielewski</strong>: Exploiting Molecules and Molecular Materials for Quantum<br> Information Science</td>
     <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 11:00 AM – 11:30 AM</td>
-    <td colspan="4">John Randall / James Owen: Scaling throughput of Atomically-Precise Lithography for<br> APAM and other Quantum Devices</td>
+    <td colspan="4"><strong>John Randall</strong> / <strong>James Owen</strong>: Scaling throughput of Atomically-Precise Lithography for<br> APAM and other Quantum Devices</td>
     <td colspan="2"></td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 5: 11:30 AM – 12:00 PM</td>
-    <td colspan="4">Oleg Gang: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
+    <td colspan="4"><strong>Oleg Gang</strong>: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
     <td colspan="2"></td>
   </tr>
 
@@ -174,9 +174,9 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2">Chair: Dmitri Basov</td>
-    <td colspan="2">Chair: Ulrich Wiesner</td>
-    <td colspan="2">Chair: Aram Amassian</td>
+    <td colspan="2">Chair: <strong>Dmitri Basov</strong></td>
+    <td colspan="2">Chair: <strong>Ulrich Wiesner</strong></td>
+    <td colspan="2">Chair: <strong>Aram Amassian</strong></td>
     <td></td>
   </tr>
 
@@ -193,22 +193,22 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 3:00 PM – 3:15 PM</td>
-    <td colspan="4">David Menasche, Google, TBD</td>
+    <td colspan="4"><strong>David Menasche</strong>, TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 3:15 PM – 3:30 PM</td>
-    <td colspan="4">Kevin Roccapriore: Deterministic atomic engineering with electron<br> beams at scale</td>
+    <td colspan="4"><strong>Kevin Roccapriore</strong>: Deterministic atomic engineering with electron<br> beams at scale</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 3:30 PM – 3:45 PM</td>
-    <td colspan="4">Vivien Zapf: Quantum information and molecular magnetism</td>
+    <td colspan="4"><strong>Vivien Zapf</strong>: Quantum information and molecular magnetism</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
-    <td colspan="4">Dusan Vobornik and Mathieu Durand, TBD</td>
+    <td colspan="4"><strong>Dusan Vobornik</strong> and <strong>Mathieu Durand</strong>, TBD</td>
   </tr>
 
   <tr class="yellow">
@@ -219,22 +219,22 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 4:10 PM – 4:30 PM</td>
-    <td colspan="4">Ulrich Wiesner: The Promise of Soft Matter enabled Quantum Devices</td>
+    <td colspan="4"><strong>Ulrich Wiesner</strong>: The Promise of Soft Matter enabled Quantum Devices</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 4:30 PM – 4:50 PM</td>
-    <td colspan="4">Dmitri Basov: Hyperbolic Materials for Quantum Information Science<br> and Technology</td>
+    <td colspan="4"><strong>Dmitri Basov</strong>: Hyperbolic Materials for Quantum Information Science<br> and Technology</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
-    <td colspan="4">Marija Drndic, TBD</td>
+    <td colspan="4"><strong>Marija Drndic</strong>, TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 5:10 PM – 5:30 PM</td>
-    <td colspan="4">Peter Maurer: From diamond to proteins qubits</td>
+    <td colspan="4"><strong>Peter Maurer</strong>: From diamond to proteins qubits</td>
   </tr>
 
   <tr class = "lightblue">
@@ -263,27 +263,27 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 8:20 AM – 8:40 AM</td>
-    <td colspan="4">Shashank Misra: Why is silicon quantum computing taking so long?</td>
+    <td colspan="4"><strong>Shashank Misra</strong>: Why is silicon quantum computing taking so long?</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 8:40 AM – 9:00 AM</td>
-    <td colspan="4">Marco Loncar: Quantum Optical Interconnects</td>
+    <td colspan="4"><strong>Marco Loncar</strong>: Quantum Optical Interconnects</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 9:00 AM – 9:20 AM</td>
-    <td colspan="4">Gregory David Fuchs: Quantum sensing and quantum magnonics using diamond<br> spins and vanadium tetracyanoethylene</td>
+    <td colspan="4"><strong>Gregory David Fuchs</strong>: Quantum sensing and quantum magnonics using diamond<br> spins and vanadium tetracyanoethylene</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 9:20 AM – 9:40 AM</td>
-    <td colspan="4">Michael Manfra: TBD</td>
+    <td colspan="4"><strong>Michael Manfra</strong>: TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 5: 9:40 AM – 10:00 AM</td>
-    <td colspan="4">Xiuling Li: Quantum Sensing with Spin Defects in III-Nitrides</td>
+    <td colspan="4"><strong>Xiuling Li</strong>: Quantum Sensing with Spin Defects in III-Nitrides</td>
   </tr>
 
   <tr class="lightblue">
@@ -299,27 +299,27 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 10:20 AM – 10:40 AM</td>
-    <td colspan="4">Danna Freedman: Molecular Color Centers</td>
+    <td colspan="4"><strong>Danna Freedman</strong>: Molecular Color Centers</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
-    <td colspan="4">Aram Amassian, TBA</td>
+    <td colspan="4"><strong>Aram Amassian</strong>, TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 11:00 AM – 11:20 AM</td>
-    <td colspan="4">Masha Kamenetska: Quantum Properties of Molecular Circuits</td>
+    <td colspan="4"><strong>Masha Kamenetska</strong>: Quantum Properties of Molecular Circuits</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 4: 11:20 AM – 11:40 AM</td>
-    <td colspan="4">Justin Caram, TBA</td>
+    <td colspan="4"><strong>Justin Caram</strong>, TBA</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 5: 11:40 AM – 12:00 PM</td>
-    <td colspan="4">Grigory Tikhomirov: Democratizing Nanofabrication of Quantum Systems<br> via Molecular Self-assembly</td>
+    <td colspan="4"><strong>Grigory Tikhomirov</strong>: Democratizing Nanofabrication of Quantum Systems<br> via Molecular Self-assembly</td>
   </tr>
 
   <tr class="lightblue">
@@ -351,9 +351,9 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2">Chair: R. Wolkow and S. Spurgeon</td>
-    <td colspan="2">Chair: Marko Lončar</td>
-    <td colspan="2">Chair: Greg Tikhomirov</td>
+    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and <strong>Steven Spurgeon</strong></td>
+    <td colspan="2">Chair: <strong>Marko Lončar</strong></td>
+    <td colspan="2">Chair: <strong>Greg Tikhomirov</strong></td>
     <td></td>
   </tr>
 
@@ -370,17 +370,17 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 3:00 PM – 3:20 PM</td>
-    <td colspan="4">Michael Flatte, TBD</td>
+    <td colspan="4"><strong>Michael Flatte</strong>, TBD</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 2: 3:20 PM – 3:40 PM</td>
-    <td colspan="4">Adina Lucan-Maier: Quantum functionality of nanoscale-controlled 2D materials</td>
+    <td colspan="4"><strong>Adina Lucan-Maier</strong>: Quantum functionality of nanoscale-controlled 2D materials</td>
   </tr>
 
   <tr>
     <td colspan="2">Speaker 3: 3:40 PM – 4:00 PM</td>
-    <td colspan="4">R. Wolkow, TBA</td>
+    <td colspan="4"><strong>Robert Wolkow</strong>, TBA</td>
   </tr>
 
 </table>
