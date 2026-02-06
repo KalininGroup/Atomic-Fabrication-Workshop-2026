@@ -203,7 +203,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 3:30 PM – 3:45 PM</td>
-    <td colspan="4">Vivien Zapf</span>: Quantum information and molecular magnetism</td>
+    <td colspan="4">Vivien Zapf: Quantum information and molecular magnetism</td>
   </tr>
 
   <tr>

@@ -54,6 +54,43 @@ menu_icon: people
 
 <div class="participants-grid">
 
+<!-- ================= U.S. Department of Energy (9) ================= -->
+<div class="affiliation-card">
+<h3>U.S. Department of Energy</h3>
+<div class="person"><div class="avatar">TK</div><div class="person-name">Tina Kaarsberg</div></div>
+<div class="person"><div class="avatar">PL</div><div class="person-name">Pavel Lougovski</div></div>
+<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fiechtner</div></div>
+<div class="person"><div class="avatar">MV</div><div class="person-name">Marat Valiev</div></div>
+<div class="person"><div class="avatar">MF</div><div class="person-name">Marco Fornari</div></div>
+<div class="person"><div class="avatar">ZG</div><div class="person-name">Zachary Goff-Eldredge</div></div>
+<div class="person"><div class="avatar">CC</div><div class="person-name">Claudia Cantoni</div></div>
+<div class="person"><div class="avatar">RO</div><div class="person-name">Rima Kasia Oueid</div></div>
+<div class="person"><div class="avatar">AR</div><div class="person-name">Ali Ramazani</div></div>
+</div>
+
+<!-- ================= DARPA / DoD / Military (6) ================= -->
+<div class="affiliation-card">
+<h3>DARPA &amp; U.S. DoD</h3>
+<div class="person"><div class="avatar">SB</div><div class="person-name">Sunil Bhave</div></div>
+<div class="person"><div class="avatar">CW</div><div class="person-name">Clement Wong</div></div>
+<div class="person"><div class="avatar">AS</div><div class="person-name">Ali Sayir</div></div>
+<div class="person"><div class="avatar">ER</div><div class="person-name">Evan L. Runnerstrom</div></div>
+<div class="person"><div class="avatar">AM</div><div class="person-name">Antti J. Makinen</div></div>
+<div class="person"><div class="avatar">BS</div><div class="person-name">Blake Simpkins</div></div>
+</div>
+
+<!-- ================= National Laboratories (6) ================= -->
+<div class="affiliation-card">
+<h3>National Laboratories</h3>
+<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose (ANL)</div></div>
+<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie (ORNL)</div></div>
+<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf (LANL)</div></div>
+<div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon (NREL)</div></div>
+<div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard (NREL)</div></div>
+<div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra (Sandia)</div></div>
+<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver<br><small>National Institute of Standards and Technology</small></div></div>
+</div>
+
 
 <!-- ================= Universities (48) ================= -->
 <div class="affiliation-card">
@@ -165,43 +202,6 @@ menu_icon: people
 
 </div>
 
-
-<!-- ================= U.S. Department of Energy (9) ================= -->
-<div class="affiliation-card">
-<h3>U.S. Department of Energy</h3>
-<div class="person"><div class="avatar">TK</div><div class="person-name">Tina Kaarsberg</div></div>
-<div class="person"><div class="avatar">PL</div><div class="person-name">Pavel Lougovski</div></div>
-<div class="person"><div class="avatar">GF</div><div class="person-name">Gregory Fiechtner</div></div>
-<div class="person"><div class="avatar">MV</div><div class="person-name">Marat Valiev</div></div>
-<div class="person"><div class="avatar">MF</div><div class="person-name">Marco Fornari</div></div>
-<div class="person"><div class="avatar">ZG</div><div class="person-name">Zachary Goff-Eldredge</div></div>
-<div class="person"><div class="avatar">CC</div><div class="person-name">Claudia Cantoni</div></div>
-<div class="person"><div class="avatar">RO</div><div class="person-name">Rima Kasia Oueid</div></div>
-<div class="person"><div class="avatar">AR</div><div class="person-name">Ali Ramazani</div></div>
-</div>
-
-<!-- ================= DARPA / DoD / Military (6) ================= -->
-<div class="affiliation-card">
-<h3>DARPA &amp; U.S. DoD</h3>
-<div class="person"><div class="avatar">SB</div><div class="person-name">Sunil Bhave</div></div>
-<div class="person"><div class="avatar">CW</div><div class="person-name">Clement Wong</div></div>
-<div class="person"><div class="avatar">AS</div><div class="person-name">Ali Sayir</div></div>
-<div class="person"><div class="avatar">ER</div><div class="person-name">Evan L. Runnerstrom</div></div>
-<div class="person"><div class="avatar">AM</div><div class="person-name">Antti J. Makinen</div></div>
-<div class="person"><div class="avatar">BS</div><div class="person-name">Blake Simpkins</div></div>
-</div>
-
-<!-- ================= National Laboratories (6) ================= -->
-<div class="affiliation-card">
-<h3>National Laboratories</h3>
-<div class="person"><div class="avatar">VR</div><div class="person-name">Volker Rose (ANL)</div></div>
-<div class="person"><div class="avatar">BL</div><div class="person-name">Benjamin Lawrie (ORNL)</div></div>
-<div class="person"><div class="avatar">VZ</div><div class="person-name">Vivien Zapf (LANL)</div></div>
-<div class="person"><div class="avatar">SS</div><div class="person-name">Steven R. Spurgeon (NREL)</div></div>
-<div class="person"><div class="avatar">MB</div><div class="person-name">Matthew Beard (NREL)</div></div>
-<div class="person"><div class="avatar">SM</div><div class="person-name">Shashank Misra (Sandia)</div></div>
-<div class="person"><div class="avatar">RS</div><div class="person-name">Richard Silver<br><small>National Institute of Standards and Technology</small></div></div>
-</div>
 
 
 
