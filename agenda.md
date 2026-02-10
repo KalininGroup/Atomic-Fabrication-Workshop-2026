@@ -142,7 +142,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 5: 11:30 AM – 12:00 PM</td>
-    <td colspan="4"><strong>Oleg Gang</strong>: Programming 3D Assembly of Optical and Electronic Nanomaterials</td>
+    <td colspan="4"><strong>Oleg Gang</strong>: Towards 3D Nanofabrication through Programmable Self-Assembly</td>
     <td colspan="2"></td>
   </tr>
 
