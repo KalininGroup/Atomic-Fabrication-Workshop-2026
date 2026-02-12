@@ -229,7 +229,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 4:50 PM – 5:10 PM</td>
-    <td colspan="4"><strong>Marija Drndic</strong>, TBD</td>
+    <td colspan="4"><strong>Marija Drndic</strong>: Coupled Nanopores for Sensing and Other Applications</td>
   </tr>
 
   <tr>
@@ -278,7 +278,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 9:20 AM – 9:40 AM</td>
-    <td colspan="4"><strong>Michael Manfra</strong>: TBD</td>
+    <td colspan="4"><strong>Michael Manfra</strong>: Quantum Devices Enabled with Hybrid Superconductor-Semiconductor<br> Heterostructures</td>
   </tr>
 
   <tr>
@@ -314,7 +314,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 11:20 AM – 11:40 AM</td>
-    <td colspan="4"><strong>Justin Caram</strong>, TBA</td>
+    <td colspan="4"><strong>Justin Caram</strong>: Atomic physics in a beaker?</td>
   </tr>
 
   <tr>
@@ -380,7 +380,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 3: 3:40 PM – 4:00 PM</td>
-    <td colspan="4"><strong>Robert Wolkow</strong>, TBA</td>
+    <td colspan="4"><strong>Robert Wolkow</strong>: Pico Perfect Placement</td>
   </tr>
 
 </table>
