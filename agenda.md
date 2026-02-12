@@ -304,7 +304,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
-    <td colspan="4"><strong>Aram Amassian</strong>, TBD</td>
+    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering Process–Structure–Property</br> Causality via In‑Situ and Multi‑Modal Characterization in Self‑Driving Labs</td>
   </tr>
 
   <tr>
