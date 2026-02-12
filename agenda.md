@@ -239,7 +239,7 @@ menu_icon: clock
 
   <tr class = "lightblue">
     <td>6:00 PM</td><td>8:00 PM</td>
-    <td colspan="6"><strong>Dinner/Dinner Keynote: </strong>Rahul Sarpeshkar: Analog and Probabilistic Computers: From Quantum Atom To Living Body</td>
+    <td colspan="6"><strong>Dinner/Dinner Keynote: </strong><strong>Rahul Sarpeshkar</strong>: Analog and Probabilistic Computers: From Quantum Atom To Living Body</td>
   </tr>
 
   <!-- spacer -->
