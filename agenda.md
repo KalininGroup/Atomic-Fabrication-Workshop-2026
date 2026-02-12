@@ -148,7 +148,7 @@ menu_icon: clock
 
   <tr class="lightblue">
       <td>12:00 PM</td><td>1:00 PM</td>
-      <td colspan="6"><strong>Lunch/ </strong><strong>Yves Idzerda<s/trong>: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+      <td colspan="6"><strong>Lunch/Yves Idzerda</strong>>: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
@@ -304,7 +304,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
-    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering Process–Structure–Property<br> Causality via In‑Situ and Multi‑Modal Characterization in Self‑Driving Labs</td>
+    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering <br>Process–Structure–Property Causality via In‑Situ and <br>Multi‑Modal Characterization in Self‑Driving Labs</td>
   </tr>
 
   <tr>
