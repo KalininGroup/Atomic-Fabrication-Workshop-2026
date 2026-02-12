@@ -136,7 +136,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 11:00 AM – 11:30 AM</td>
-    <td colspan="4"><strong>John Randall</strong> / <strong>James Owen</strong>: Scaling throughput of Atomically-Precise Lithography for<br> APAM and other Quantum Devices</td>
+    <td colspan="4"><strong>John Randall</strong> / <strong>James Owen</strong>: Scaling throughput of Atomically-Precise Lithography<br> for APAM and other Quantum Devices</td>
     <td colspan="2"></td>
   </tr>
 
@@ -148,7 +148,7 @@ menu_icon: clock
 
   <tr class="lightblue">
       <td>12:00 PM</td><td>1:00 PM</td>
-      <td colspan="6"><strong>Lunch/ </strong>Yves Idzerda: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+      <td colspan="6"><strong>Lunch/ </strong><strong>Yves Idzerda<s/trong>: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
@@ -278,7 +278,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 9:20 AM – 9:40 AM</td>
-    <td colspan="4"><strong>Michael Manfra</strong>: Quantum Devices Enabled with Hybrid Superconductor-Semiconductor<br> Heterostructures</td>
+    <td colspan="4"><strong>Michael Manfra</strong>: Quantum Devices Enabled with Hybrid<br> Superconductor-Semiconductor Heterostructures</td>
   </tr>
 
   <tr>
@@ -304,7 +304,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
-    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering Process–Structure–Property</br> Causality via In‑Situ and Multi‑Modal Characterization in Self‑Driving Labs</td>
+    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering Process–Structure–Property<br> Causality via In‑Situ and Multi‑Modal Characterization in Self‑Driving Labs</td>
   </tr>
 
   <tr>
@@ -324,7 +324,7 @@ menu_icon: clock
 
   <tr class="lightblue">
     <td>12:10 PM</td><td>1:00 PM</td>
-    <td colspan="6"><strong>Lunch/</strong> Paul Weiss: </td>
+    <td colspan="6"><strong>Lunch/</strong><strong>Paul Weiss</strong>: Connecting and Quantifying Quantum Molecular and Hybrid Systems</td>
   </tr>
 
   <!-- Breakout Sessions (Day 2) -->
@@ -351,7 +351,7 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and <strong></strong><br>Steven Spurgeon</strong></td>
+    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and </strong><br><strong>Steven Spurgeon</strong></td>
     <td colspan="2">Chair: <strong>Marko Lončar</strong></td>
     <td colspan="2">Chair: <strong>Greg Tikhomirov</strong></td>
     <td></td>
@@ -370,7 +370,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 3:00 PM – 3:20 PM</td>
-    <td colspan="4"><strong>Michael Flatte</strong>, TBD</td>
+    <td colspan="4"><strong>Michael Flatte</strong>: Spatial Anisotropy of Acceptor Wave Functions in Silicon</td>
   </tr>
 
   <tr>
