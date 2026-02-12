@@ -351,7 +351,7 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and <strong>Steven Spurgeon</strong></td>
+    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and <strong></strong><br>Steven Spurgeon</strong></td>
     <td colspan="2">Chair: <strong>Marko Lončar</strong></td>
     <td colspan="2">Chair: <strong>Greg Tikhomirov</strong></td>
     <td></td>
