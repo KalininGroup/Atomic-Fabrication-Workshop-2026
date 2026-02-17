@@ -193,7 +193,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 1: 3:00 PM – 3:15 PM</td>
-    <td colspan="4"><strong>David Menasche</strong>, TBD</td>
+    <td colspan="4"><strong>David Menasche</strong>: Quantum technology: industry watch</td>
   </tr>
 
   <tr>
@@ -208,7 +208,8 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
-    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering <br>Process–Structure–Property Causality via In‑Situ and <br>Multi‑Modal Characterization in Self‑Driving Labs</tr>
+    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering <br>Process–Structure–Property Causality via In‑Situ and <br>Multi‑Modal Characterization in Self‑Driving Labs</td>
+  </tr>
 
   <tr class="yellow">
     <td rowspan="5">4:10 PM</td><td rowspan="5">5:30 PM</td>
@@ -350,7 +351,7 @@ menu_icon: clock
 
   <tr class="center">
     <td></td>
-    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and </strong><br><strong>Steven Spurgeon</strong></td>
+    <td colspan="2">Chair: <strong>Robert Wolkow</strong> and <br><strong>Steven Spurgeon</strong></td>
     <td colspan="2">Chair: <strong>Marko Lončar</strong></td>
     <td colspan="2">Chair: <strong>Greg Tikhomirov</strong></td>
     <td></td>
