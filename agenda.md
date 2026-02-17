@@ -208,8 +208,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
-    <td colspan="4"><strong>Dusan Vobornik</strong> and <strong>Mathieu Durand</strong>: Inverted-Mode Scanning Tunneling <br>Microscopy for Atomically Precise Fabrication</td>
-  </tr>
+    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering <br>Process–Structure–Property Causality via In‑Situ and <br>Multi‑Modal Characterization in Self‑Driving Labs</tr>
 
   <tr class="yellow">
     <td rowspan="5">4:10 PM</td><td rowspan="5">5:30 PM</td>
@@ -304,7 +303,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 2: 10:40 AM – 11:00 AM</td>
-    <td colspan="4"><strong>Aram Amassian</strong>: Illuminating Process Histories: Uncovering <br>Process–Structure–Property Causality via In‑Situ and <br>Multi‑Modal Characterization in Self‑Driving Labs</td>
+    <td colspan="4"><strong>Dusan Vobornik</strong> and <strong>Mathieu Durand</strong>: Inverted-Mode Scanning Tunneling <br>Microscopy for Atomically Precise Fabrication</td>
   </tr>
 
   <tr>
