@@ -148,7 +148,7 @@ menu_icon: clock
 
   <tr class="lightblue">
       <td>12:00 PM</td><td>1:00 PM</td>
-      <td colspan="6"><strong>Lunch/Yves Idzerda</strong>>: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
+      <td colspan="6"><strong>Lunch/Yves Idzerda</strong>: Transitioning 2D Technologies at the MonArk Quantum Foundry</td>
   </tr>
 
   <!-- Breakout Sessions (Day 1) -->
