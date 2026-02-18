@@ -89,7 +89,7 @@ menu_icon: clock
 
   <tr>
     <td>8:30 AM</td><td>8:45 AM</td>
-    <td colspan="6">Welcome and Introductions: <strong>Anthony Macijewski</strong> (DD ECCS), NSF Program Directors</td>
+    <td colspan="6">Welcome and Introductions: <strong>Anthony Maciejewski</strong> (DD ECCS), NSF Program Directors</td>
   </tr>
 
   <tr>
