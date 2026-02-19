@@ -208,7 +208,7 @@ menu_icon: clock
 
   <tr>
     <td colspan="2">Speaker 4: 3:45 PM – 4:00 PM</td>
-    <td colspan="4"><strong>Dusan Vobornik</strong> and <strong>Mathieu Durand</strong>: Inverted-Mode Scanning Tunneling <br>Microscopy for Atomically Precise Fabrication</td>
+    <td colspan="4"><strong>Dusan Vobornik</strong>: Inverted-Mode Scanning Tunneling <br>Microscopy for Atomically Precise Fabrication</td>
   </tr>
 
   <tr class="yellow">
